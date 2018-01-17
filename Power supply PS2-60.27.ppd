@@ -1,0 +1,349 @@
+<document type="ProfiCAD ppd" version="6.0" t="" v="" n="" m="" fG="" lG="4cca3454-9f33-418d-8375-ab88823fcb27">
+<repo/>
+<layers current="0">
+<layer name="0" v="1">
+<rect left="-527" top="-439" right="527" bottom="439" op-lw="4"/>
+<rect left="-520" top="-220" right="-7" bottom="220"/>
+<text x="-377" y="-174" f="176,1,0,0,Calibri,000000">PS2-60/27</text>
+<polyline pts="-410,241,-410,332,"/>
+<polyline op-lw="4" pts="-527,-227,527,-227,"/>
+<polyline op-lw="4" pts="-527,332,527,332,"/>
+<polyline pts="-484,243,-484,334,"/>
+<polyline pts="-337,241,-337,332,"/>
+<rect left="7" top="-220" right="520" bottom="220"/>
+<polyline pts="-264,241,-264,332,"/>
+<polyline pts="-44,241,-44,332,"/>
+<text x="-228" y="279" f="74,0,0,0,Calibri,000000">U</text>
+<text x="-154" y="274" t="2" f="74,0,0,0,Calibri,000000">GND</text>
+<text x="-82" y="279" f="74,0,0,0,Calibri,000000">N</text>
+<roundRect left="-257" top="359" right="-54" bottom="413" rX="59" rY="59" op-fd="1" op-fc="12632256"/>
+<ellipse left="-249" top="365" right="-205" bottom="409" op-fd="1" op-fc="16777215"/>
+<ellipse left="-234" top="380" right="-220" bottom="394"/>
+<polyline pts="-229,394,-240,404,"/>
+<polyline pts="-229,380,-240,369,"/>
+<polyline pts="-234,384,-244,374,"/>
+<polyline pts="-234,390,-244,400,"/>
+<polyline pts="-214,369,-224,380,"/>
+<polyline pts="-210,374,-220,384,"/>
+<polyline pts="-229,380,-240,369,"/>
+<polyline pts="-210,400,-220,390,"/>
+<polyline pts="-214,404,-224,394,"/>
+<ellipse left="-176" top="365" right="-132" bottom="409" op-fd="1" op-fc="16777215"/>
+<ellipse left="-162" top="380" right="-146" bottom="394"/>
+<polyline pts="-157,394,-168,404,"/>
+<polyline pts="-157,380,-168,369,"/>
+<polyline pts="-162,384,-171,374,"/>
+<polyline pts="-162,390,-171,400,"/>
+<polyline pts="-140,369,-152,380,"/>
+<polyline pts="-136,374,-146,384,"/>
+<polyline pts="-157,380,-168,369,"/>
+<polyline pts="-136,400,-146,390,"/>
+<polyline pts="-140,404,-152,394,"/>
+<ellipse left="-103" top="365" right="-59" bottom="409" op-fd="1" op-fc="16777215"/>
+<ellipse left="-88" top="380" right="-74" bottom="394"/>
+<polyline pts="-83,394,-94,404,"/>
+<polyline pts="-83,380,-94,369,"/>
+<polyline pts="-88,384,-98,374,"/>
+<polyline pts="-88,390,-98,400,"/>
+<polyline pts="-68,369,-78,380,"/>
+<polyline pts="-64,374,-74,384,"/>
+<polyline pts="-83,380,-94,369,"/>
+<polyline pts="-64,400,-74,390,"/>
+<polyline pts="-68,404,-78,394,"/>
+<polyline op-lw="4" pts="-527,-329,527,-329,"/>
+<rect left="29" top="-419" right="498" bottom="-352" op-fd="1" op-fc="65408"/>
+<ellipse left="241" top="-409" right="286" bottom="-365" op-fd="1" op-fc="16777215"/>
+<ellipse left="257" top="-394" right="271" bottom="-380"/>
+<polyline pts="262,-380,250,-369,"/>
+<polyline pts="262,-394,250,-404,"/>
+<polyline pts="257,-390,246,-400,"/>
+<polyline pts="257,-384,246,-374,"/>
+<polyline pts="277,-404,267,-394,"/>
+<polyline pts="281,-400,271,-390,"/>
+<polyline pts="262,-394,250,-404,"/>
+<polyline pts="281,-374,271,-384,"/>
+<polyline pts="277,-369,267,-380,"/>
+<ellipse left="191" top="-409" right="234" bottom="-365" op-fd="1" op-fc="16777215"/>
+<ellipse left="205" top="-394" right="220" bottom="-380"/>
+<polyline pts="210,-380,199,-369,"/>
+<polyline pts="210,-394,199,-404,"/>
+<polyline pts="205,-390,195,-400,"/>
+<polyline pts="205,-384,195,-374,"/>
+<polyline pts="226,-404,215,-394,"/>
+<polyline pts="229,-400,220,-390,"/>
+<polyline pts="210,-394,199,-404,"/>
+<polyline pts="229,-374,220,-384,"/>
+<polyline pts="226,-369,215,-380,"/>
+<ellipse left="139" top="-409" right="183" bottom="-365" op-fd="1" op-fc="16777215"/>
+<ellipse left="154" top="-394" right="169" bottom="-380"/>
+<polyline pts="159,-380,147,-369,"/>
+<polyline pts="159,-394,147,-404,"/>
+<polyline pts="154,-390,144,-400,"/>
+<polyline pts="154,-384,144,-374,"/>
+<polyline pts="175,-404,164,-394,"/>
+<polyline pts="179,-400,169,-390,"/>
+<polyline pts="159,-394,147,-404,"/>
+<polyline pts="179,-374,169,-384,"/>
+<polyline pts="175,-369,164,-380,"/>
+<ellipse left="88" top="-409" right="132" bottom="-365" op-fd="1" op-fc="16777215"/>
+<ellipse left="103" top="-394" right="117" bottom="-380"/>
+<polyline pts="107,-380,97,-369,"/>
+<polyline pts="107,-394,97,-404,"/>
+<polyline pts="103,-390,93,-400,"/>
+<polyline pts="103,-384,93,-374,"/>
+<polyline pts="123,-404,112,-394,"/>
+<polyline pts="127,-400,117,-390,"/>
+<polyline pts="107,-394,97,-404,"/>
+<polyline pts="127,-374,117,-384,"/>
+<polyline pts="123,-369,112,-380,"/>
+<ellipse left="36" top="-409" right="81" bottom="-365" op-fd="1" op-fc="16777215"/>
+<ellipse left="52" top="-394" right="66" bottom="-380"/>
+<polyline pts="57,-380,45,-369,"/>
+<polyline pts="57,-394,45,-404,"/>
+<polyline pts="52,-390,41,-400,"/>
+<polyline pts="52,-384,41,-374,"/>
+<polyline pts="72,-404,62,-394,"/>
+<polyline pts="76,-400,66,-390,"/>
+<polyline pts="57,-394,45,-404,"/>
+<polyline pts="76,-374,66,-384,"/>
+<polyline pts="72,-369,62,-380,"/>
+<ellipse left="293" top="-409" right="337" bottom="-365" op-fd="1" op-fc="16777215"/>
+<ellipse left="308" top="-394" right="322" bottom="-380"/>
+<polyline pts="312,-380,302,-369,"/>
+<polyline pts="312,-394,302,-404,"/>
+<polyline pts="308,-390,298,-400,"/>
+<polyline pts="308,-384,298,-374,"/>
+<polyline pts="328,-404,317,-394,"/>
+<polyline pts="332,-400,322,-390,"/>
+<polyline pts="312,-394,302,-404,"/>
+<polyline pts="332,-374,322,-384,"/>
+<polyline pts="328,-369,317,-380,"/>
+<ellipse left="344" top="-409" right="388" bottom="-365" op-fd="1" op-fc="16777215"/>
+<ellipse left="359" top="-394" right="374" bottom="-380"/>
+<polyline pts="364,-380,352,-369,"/>
+<polyline pts="364,-394,352,-404,"/>
+<polyline pts="359,-390,349,-400,"/>
+<polyline pts="359,-384,349,-374,"/>
+<polyline pts="380,-404,369,-394,"/>
+<polyline pts="384,-400,374,-390,"/>
+<polyline pts="364,-394,352,-404,"/>
+<polyline pts="384,-374,374,-384,"/>
+<polyline pts="380,-369,369,-380,"/>
+<ellipse left="396" top="-409" right="439" bottom="-365" op-fd="1" op-fc="16777215"/>
+<ellipse left="410" top="-394" right="425" bottom="-380"/>
+<polyline pts="415,-380,404,-369,"/>
+<polyline pts="415,-394,404,-404,"/>
+<polyline pts="410,-390,400,-400,"/>
+<polyline pts="410,-384,400,-374,"/>
+<polyline pts="431,-404,420,-394,"/>
+<polyline pts="434,-400,425,-390,"/>
+<polyline pts="415,-394,404,-404,"/>
+<polyline pts="434,-374,425,-384,"/>
+<polyline pts="431,-369,420,-380,"/>
+<ellipse left="446" top="-409" right="491" bottom="-365" op-fd="1" op-fc="16777215"/>
+<ellipse left="462" top="-394" right="476" bottom="-380"/>
+<polyline pts="467,-380,456,-369,"/>
+<polyline pts="467,-394,456,-404,"/>
+<polyline pts="462,-390,451,-400,"/>
+<polyline pts="462,-384,451,-374,"/>
+<polyline pts="482,-404,472,-394,"/>
+<polyline pts="486,-400,476,-390,"/>
+<polyline pts="467,-394,456,-404,"/>
+<polyline pts="486,-374,476,-384,"/>
+<polyline pts="482,-369,472,-380,"/>
+<rect left="29" top="352" right="498" bottom="419" op-fd="1" op-fc="65408"/>
+<ellipse left="241" top="364" right="286" bottom="408" op-fd="1" op-fc="16777215"/>
+<ellipse left="257" top="379" right="271" bottom="393"/>
+<polyline pts="262,393,250,403,"/>
+<polyline pts="262,379,250,368,"/>
+<polyline pts="257,382,246,373,"/>
+<polyline pts="257,388,246,398,"/>
+<polyline pts="277,368,267,379,"/>
+<polyline pts="281,373,271,382,"/>
+<polyline pts="262,379,250,368,"/>
+<polyline pts="281,398,271,388,"/>
+<polyline pts="277,403,267,393,"/>
+<ellipse left="191" top="364" right="234" bottom="408" op-fd="1" op-fc="16777215"/>
+<ellipse left="205" top="379" right="220" bottom="393"/>
+<polyline pts="210,393,199,403,"/>
+<polyline pts="210,379,199,368,"/>
+<polyline pts="205,382,195,373,"/>
+<polyline pts="205,388,195,398,"/>
+<polyline pts="226,368,215,379,"/>
+<polyline pts="229,373,220,382,"/>
+<polyline pts="210,379,199,368,"/>
+<polyline pts="229,398,220,388,"/>
+<polyline pts="226,403,215,393,"/>
+<ellipse left="139" top="364" right="183" bottom="408" op-fd="1" op-fc="16777215"/>
+<ellipse left="154" top="379" right="169" bottom="393"/>
+<polyline pts="159,393,147,403,"/>
+<polyline pts="159,379,147,368,"/>
+<polyline pts="154,382,144,373,"/>
+<polyline pts="154,388,144,398,"/>
+<polyline pts="175,368,164,379,"/>
+<polyline pts="179,373,169,382,"/>
+<polyline pts="159,379,147,368,"/>
+<polyline pts="179,398,169,388,"/>
+<polyline pts="175,403,164,393,"/>
+<ellipse left="88" top="364" right="132" bottom="408" op-fd="1" op-fc="16777215"/>
+<ellipse left="103" top="379" right="117" bottom="393"/>
+<polyline pts="107,393,97,403,"/>
+<polyline pts="107,379,97,368,"/>
+<polyline pts="103,382,93,373,"/>
+<polyline pts="103,388,93,398,"/>
+<polyline pts="123,368,112,379,"/>
+<polyline pts="127,373,117,382,"/>
+<polyline pts="107,379,97,368,"/>
+<polyline pts="127,398,117,388,"/>
+<polyline pts="123,403,112,393,"/>
+<ellipse left="36" top="364" right="81" bottom="408" op-fd="1" op-fc="16777215"/>
+<ellipse left="52" top="379" right="66" bottom="393"/>
+<polyline pts="57,393,45,403,"/>
+<polyline pts="57,379,45,368,"/>
+<polyline pts="52,382,41,373,"/>
+<polyline pts="52,388,41,398,"/>
+<polyline pts="72,368,62,379,"/>
+<polyline pts="76,373,66,382,"/>
+<polyline pts="57,379,45,368,"/>
+<polyline pts="76,398,66,388,"/>
+<polyline pts="72,403,62,393,"/>
+<ellipse left="293" top="364" right="337" bottom="408" op-fd="1" op-fc="16777215"/>
+<ellipse left="308" top="379" right="322" bottom="393"/>
+<polyline pts="312,393,302,403,"/>
+<polyline pts="312,379,302,368,"/>
+<polyline pts="308,382,298,373,"/>
+<polyline pts="308,388,298,398,"/>
+<polyline pts="328,368,317,379,"/>
+<polyline pts="332,373,322,382,"/>
+<polyline pts="312,379,302,368,"/>
+<polyline pts="332,398,322,388,"/>
+<polyline pts="328,403,317,393,"/>
+<ellipse left="344" top="364" right="388" bottom="408" op-fd="1" op-fc="16777215"/>
+<ellipse left="359" top="379" right="374" bottom="393"/>
+<polyline pts="364,393,352,403,"/>
+<polyline pts="364,379,352,368,"/>
+<polyline pts="359,382,349,373,"/>
+<polyline pts="359,388,349,398,"/>
+<polyline pts="380,368,369,379,"/>
+<polyline pts="384,373,374,382,"/>
+<polyline pts="364,379,352,368,"/>
+<polyline pts="384,398,374,388,"/>
+<polyline pts="380,403,369,393,"/>
+<ellipse left="396" top="364" right="439" bottom="408" op-fd="1" op-fc="16777215"/>
+<ellipse left="410" top="379" right="425" bottom="393"/>
+<polyline pts="415,393,404,403,"/>
+<polyline pts="415,379,404,368,"/>
+<polyline pts="410,382,400,373,"/>
+<polyline pts="410,388,400,398,"/>
+<polyline pts="431,368,420,379,"/>
+<polyline pts="434,373,425,382,"/>
+<polyline pts="415,379,404,368,"/>
+<polyline pts="434,398,425,388,"/>
+<polyline pts="431,403,420,393,"/>
+<ellipse left="446" top="364" right="491" bottom="408" op-fd="1" op-fc="16777215"/>
+<ellipse left="462" top="379" right="476" bottom="393"/>
+<polyline pts="467,393,456,403,"/>
+<polyline pts="467,379,456,368,"/>
+<polyline pts="462,382,451,373,"/>
+<polyline pts="462,388,451,398,"/>
+<polyline pts="482,368,472,379,"/>
+<polyline pts="486,373,476,382,"/>
+<polyline pts="467,379,456,368,"/>
+<polyline pts="486,398,476,388,"/>
+<polyline pts="482,403,472,393,"/>
+<polyline pts="83,-325,83,-254,"/>
+<polyline pts="134,-325,134,-254,"/>
+<polyline pts="186,-325,186,-254,"/>
+<polyline pts="341,-325,341,-254,"/>
+<polyline pts="393,-325,393,-254,"/>
+<polyline pts="444,-325,444,-254,"/>
+<polyline pts="496,-325,496,-234,"/>
+<text x="56" y="-317" f="59,0,0,0,Calibri,000000">B1</text>
+<text x="55" y="-275" t="2" f="59,0,0,0,Calibri,000000">GND</text>
+<polyline pts="32,-325,32,-234,"/>
+<polyline pts="32,-303,496,-303,"/>
+<text x="107" y="-317" f="59,0,0,0,Calibri,000000">B2</text>
+<text x="158" y="-317" f="59,0,0,0,Calibri,000000">B3</text>
+<text x="210" y="-317" f="59,0,0,0,Calibri,000000">B4</text>
+<text x="264" y="-317" f="59,0,0,0,Calibri,000000">B5</text>
+<text x="315" y="-317" f="59,0,0,0,Calibri,000000">B6</text>
+<text x="365" y="-317" f="59,0,0,0,Calibri,000000">B7</text>
+<text x="417" y="-317" f="59,0,0,0,Calibri,000000">B8</text>
+<text x="469" y="-317" f="59,0,0,0,Calibri,000000">B9</text>
+<text x="106" y="-275" t="2" f="59,0,0,0,Calibri,000000">GND</text>
+<text x="157" y="-274" t="2" f="59,0,0,0,Calibri,000000">GND</text>
+<text x="210" y="-274" t="2" f="59,0,0,0,Calibri,000000">GND</text>
+<text x="313" y="-275" t="2" f="59,0,0,0,Calibri,000000">+27V</text>
+<text x="363" y="-275" t="2" f="59,0,0,0,Calibri,000000">+27V</text>
+<text x="415" y="-273" t="2" f="59,0,0,0,Calibri,000000">+27V</text>
+<text x="469" y="-273" t="2" f="59,0,0,0,Calibri,000000">+27V</text>
+<text x="264" y="-241" f="59,0,0,0,Calibri,000000">Output 27V</text>
+<polyline pts="291,-325,291,-254,"/>
+<polyline pts="239,-325,239,-254,"/>
+<polyline pts="-484,308,-44,308,"/>
+<text x="-227" y="319" f="59,0,0,0,Calibri,000000">C4</text>
+<text x="-154" y="319" f="59,0,0,0,Calibri,000000">C5</text>
+<text x="-78" y="319" f="59,0,0,0,Calibri,000000">C6</text>
+<text x="59" y="315" f="59,0,0,0,Calibri,000000">D1</text>
+<polyline pts="83,254,83,325,"/>
+<polyline pts="134,254,134,325,"/>
+<polyline pts="186,254,186,325,"/>
+<polyline pts="237,254,237,325,"/>
+<polyline pts="291,254,291,325,"/>
+<polyline pts="341,254,341,325,"/>
+<polyline pts="393,254,393,325,"/>
+<polyline pts="444,254,444,325,"/>
+<polyline pts="496,234,496,325,"/>
+<polyline pts="32,234,32,325,"/>
+<polyline pts="32,303,496,303,"/>
+<text x="110" y="315" f="59,0,0,0,Calibri,000000">D2</text>
+<text x="161" y="315" f="59,0,0,0,Calibri,000000">D3</text>
+<text x="210" y="315" f="59,0,0,0,Calibri,000000">D4</text>
+<text x="264" y="315" f="59,0,0,0,Calibri,000000">D5</text>
+<text x="316" y="315" f="59,0,0,0,Calibri,000000">D6</text>
+<text x="368" y="315" f="59,0,0,0,Calibri,000000">D7</text>
+<text x="417" y="315" f="59,0,0,0,Calibri,000000">D8</text>
+<text x="469" y="315" f="59,0,0,0,Calibri,000000">D9</text>
+<text x="-446" y="319" f="59,0,0,0,Calibri,000000">C1</text>
+<text x="-375" y="319" f="59,0,0,0,Calibri,000000">C2</text>
+<text x="-298" y="319" f="59,0,0,0,Calibri,000000">C3</text>
+<text x="55" y="274" t="2" f="59,0,0,0,Calibri,000000">GND</text>
+<text x="106" y="274" t="2" f="59,0,0,0,Calibri,000000">GND</text>
+<text x="157" y="275" t="2" f="59,0,0,0,Calibri,000000">GND</text>
+<text x="210" y="275" t="2" f="59,0,0,0,Calibri,000000">GND</text>
+<text x="313" y="273" t="2" f="59,0,0,0,Calibri,000000">+12V</text>
+<text x="363" y="273" t="2" f="59,0,0,0,Calibri,000000">+12V</text>
+<text x="415" y="275" t="2" f="59,0,0,0,Calibri,000000">+12V</text>
+<text x="469" y="275" t="2" f="59,0,0,0,Calibri,000000">+12V</text>
+<text x="257" y="238" f="59,0,0,0,Calibri,000000">Output 12V</text>
+<polyline pts="-191,262,-191,332,"/>
+<polyline pts="-117,262,-117,332,"/>
+<text x="-148" y="239" f="59,0,0,0,Calibri,000000">Input 230V~, 106VA, 50Hz</text>
+<ellipse left="-432" top="-116" right="-403" bottom="-87" op-fd="1" op-fc="65280"/>
+<text x="-417" y="-54" f="88,0,0,0,Lucida Sans Unicode,000000" l="1">Power</text>
+<outlet x="59" y="-439"/>
+<outlet x="110" y="-439"/>
+<outlet x="110" y="-439"/>
+<outlet x="162" y="-439"/>
+<outlet x="212" y="-439"/>
+<outlet x="264" y="-439"/>
+<outlet x="315" y="-439"/>
+<outlet x="367" y="-439"/>
+<outlet x="417" y="-439"/>
+<outlet x="469" y="-439"/>
+<outlet x="469" y="439"/>
+<outlet x="417" y="439"/>
+<outlet x="367" y="439"/>
+<outlet x="315" y="439"/>
+<outlet x="264" y="439"/>
+<outlet x="212" y="439"/>
+<outlet x="162" y="439"/>
+<outlet x="110" y="439"/>
+<outlet x="59" y="439"/>
+<outlet x="-81" y="439"/>
+<outlet x="-154" y="439"/>
+<outlet x="-227" y="439"/>
+<polyline op-lw="4" pts="-527,227,527,227,"/>
+</layer>
+</layers>
+</document>
