@@ -1,4 +1,4 @@
-<document type="ProfiCAD ppd" version="6.0" t="" v="" n="" m="" fG="" lG="c2bc191d-3d4a-4d4d-940f-22f07af60aea">
+<document type="ProfiCAD ppd" version="6.0" t="" v="" n="" m="" fG="" lG="922baa79-800f-40b0-a8e2-d1b6e32053b1">
 <repo/>
 <layers current="0">
 <layer name="0" v="1">
@@ -249,18 +249,18 @@
 <polyline pts="77,-324,77,-253,"/>
 <polyline pts="180,-324,180,-253,"/>
 <polyline pts="231,-324,231,-234,"/>
-<text x="-206" y="-317" f="58,0,0,0,Calibri,000000">B1</text>
+<text x="-205" y="-317" f="58,0,0,0,Calibri,000000">A1</text>
 <text x="-207" y="-274" t="2" f="58,0,0,0,Calibri,000000">TCL2+</text>
 <polyline pts="-231,-324,-231,-234,"/>
 <polyline pts="-231,-302,231,-302,"/>
-<text x="-155" y="-317" f="58,0,0,0,Calibri,000000">B2</text>
-<text x="-103" y="-317" f="58,0,0,0,Calibri,000000">B3</text>
-<text x="-52" y="-317" f="58,0,0,0,Calibri,000000">B4</text>
-<text x="0" y="-317" f="58,0,0,0,Calibri,000000">B5</text>
-<text x="51" y="-317" f="58,0,0,0,Calibri,000000">B6</text>
-<text x="102" y="-317" f="58,0,0,0,Calibri,000000">B7</text>
-<text x="153" y="-317" f="58,0,0,0,Calibri,000000">B8</text>
-<text x="204" y="-317" f="58,0,0,0,Calibri,000000">B9</text>
+<text x="-154" y="-317" f="58,0,0,0,Calibri,000000">A2</text>
+<text x="-102" y="-317" f="58,0,0,0,Calibri,000000">A3</text>
+<text x="-51" y="-317" f="58,0,0,0,Calibri,000000">A4</text>
+<text x="1" y="-317" f="58,0,0,0,Calibri,000000">A5</text>
+<text x="52" y="-317" f="58,0,0,0,Calibri,000000">A6</text>
+<text x="103" y="-317" f="58,0,0,0,Calibri,000000">A7</text>
+<text x="154" y="-317" f="58,0,0,0,Calibri,000000">A8</text>
+<text x="205" y="-317" f="58,0,0,0,Calibri,000000">A9</text>
 <text x="-156" y="-274" t="2" f="58,0,0,0,Calibri,000000">TCL2-</text>
 <text x="-105" y="-273" t="2" f="58,0,0,0,Calibri,000000">GND</text>
 <text x="-52" y="-273" t="2" f="58,0,0,0,Calibri,000000">GND</text>
@@ -268,7 +268,7 @@
 <text x="100" y="-274" t="2" f="58,0,0,0,Calibri,000000">+24V</text>
 <text x="152" y="-273" t="2" f="58,0,0,0,Calibri,000000">GND</text>
 <text x="204" y="-275" t="2" f="58,0,0,0,Calibri,000000">BU+</text>
-<text x="-156" y="-241" f="58,0,0,0,Calibri,000000">TC LINE</text>
+<text x="-154" y="-241" f="58,0,0,0,Calibri,000000">TC LINE</text>
 <text x="179" y="-241" f="58,0,0,0,Calibri,000000">BACKUP</text>
 <polyline op-lw="4" pts="-263,329,263,329,"/>
 <polyline pts="-180,324,-180,253,"/>
@@ -322,7 +322,7 @@
 <text x="-1" y="-274" t="2" f="58,0,0,0,Calibri,000000">+27V</text>
 <text x="-26" y="-241" f="51,0,0,0,Calibri,000000">POWER +27V</text>
 <polyline pts="128,-324,128,-234,"/>
-<text x="76" y="-241" f="58,0,0,0,Calibri,000000">ACU 24V</text>
+<text x="77" y="-241" f="58,0,0,0,Calibri,000000">ACU 24V</text>
 <polyline pts="-239,219,-239,161,"/>
 <polyline pts="-23,219,-23,161,"/>
 <polyline pts="23,219,23,161,"/>
