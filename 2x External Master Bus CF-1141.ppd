@@ -1,4 +1,4 @@
-<document type="ProfiCAD ppd" version="6.0" t="" v="" n="" m="" fG="" lG="922baa79-800f-40b0-a8e2-d1b6e32053b1">
+<document type="ProfiCAD ppd" version="6.0" t="" v="" n="" m="" fG="" lG="eed2b3f6-21bd-4093-9115-ac02cc7c5c43">
 <repo/>
 <layers current="0">
 <layer name="0" v="1">
@@ -205,7 +205,7 @@
 <polyline pts="201,378,191,368,"/>
 <polyline pts="222,399,212,388,"/>
 <polyline pts="218,403,207,393,"/>
-<text x="-86" y="-115" f="204,0,0,0,Lucida Sans Unicode,000000" l="1">CF-1141</text>
+<text x="-116" y="-115" f="160,0,0,0,Lucida Sans Unicode,000000" l="1">CF-1141</text>
 <ellipse left="-183" top="0" right="-124" bottom="58" op-fd="1" op-fc="12632256"/>
 <arc left="-190" top="-7" right="-117" bottom="66" bX="-35" bY="-40" eX="30" eY="-40"/>
 <polygon op-fd="1" op-fc="16777215" pts="-175,18,-162,31,-174,42,-166,50,-155,38,-142,51,-134,44,-147,31,-140,23,-134,29,-134,10,-153,10,-147,16,-155,23,-168,10,"/>
