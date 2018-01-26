@@ -1,518 +1,518 @@
-<document type="ProfiCAD ppd" version="6.0" t="" v="" n="" m="" fG="" lG="640a1929-78ab-4c4e-a0dd-125cc0ba4367">
+<document type="ProfiCAD ppd" version="6.0" t="" v="" n="" m="" fG="" lG="e44f4399-974c-4817-b25f-7366aaf35b40">
 <repo/>
 <layers current="0">
 <layer name="0" v="1">
-<polyline op-lw="4" pts="-526,-431,526,-431,"/>
-<polyline op-lw="4" pts="-526,-338,526,-338,"/>
-<polyline pts="-32,-431,-32,-341,"/>
-<text x="-264" y="-413" f="73,0,0,0,Calibri,000000">X2</text>
-<polyline pts="-83,-431,-83,-371,"/>
-<polyline pts="-134,-431,-134,-371,"/>
-<polyline pts="-185,-431,-185,-341,"/>
-<polyline pts="-237,-431,-237,-341,"/>
-<polyline pts="-289,-431,-289,-371,"/>
-<polyline pts="-340,-431,-340,-371,"/>
-<polyline pts="-391,-431,-391,-341,"/>
-<polyline pts="-442,-431,-442,-341,"/>
-<polyline pts="-493,-431,-493,-341,"/>
-<polyline op-lw="4" pts="-526,341,526,341,"/>
-<polyline op-lw="4" pts="-526,433,526,433,"/>
-<polyline pts="-32,343,-32,433,"/>
-<polyline pts="-83,343,-83,433,"/>
-<polyline pts="-134,343,-134,433,"/>
-<polyline pts="-185,343,-185,433,"/>
-<polyline pts="-237,343,-237,433,"/>
-<polyline pts="-289,343,-289,433,"/>
-<polyline pts="-340,343,-340,433,"/>
-<polyline pts="-391,343,-391,433,"/>
-<polyline pts="-442,343,-442,433,"/>
-<polyline pts="-493,343,-493,433,"/>
-<polyline pts="493,343,493,433,"/>
-<polyline pts="442,343,442,433,"/>
-<polyline pts="391,343,391,433,"/>
-<polyline pts="340,343,340,433,"/>
-<polyline pts="289,343,289,433,"/>
-<polyline pts="237,343,237,433,"/>
-<polyline pts="185,343,185,433,"/>
-<polyline pts="134,343,134,433,"/>
-<polyline pts="83,343,83,433,"/>
-<polyline pts="32,343,32,433,"/>
-<text x="159" y="388" f="73,0,0,0,Calibri,000000">k1</text>
-<text x="108" y="388" f="73,0,0,0,Calibri,000000">I1</text>
-<text x="210" y="387" f="73,0,0,0,Calibri,000000">I2</text>
-<text x="467" y="388" f="73,0,0,0,Calibri,000000">k4</text>
-<polyline pts="493,-431,493,-339,"/>
-<text x="57" y="-384" f="73,0,0,0,Calibri,000000">R</text>
-<polyline pts="442,-431,442,-341,"/>
-<polyline pts="391,-431,391,-341,"/>
-<polyline pts="340,-431,340,-341,"/>
-<polyline pts="289,-431,289,-341,"/>
-<polyline pts="237,-431,237,-341,"/>
-<polyline pts="185,-431,185,-341,"/>
-<polyline pts="134,-431,134,-341,"/>
-<polyline pts="83,-431,83,-341,"/>
-<polyline pts="32,-431,32,-341,"/>
-<rect left="-530" top="-540" right="530" bottom="540" op-lw="4"/>
-<text x="-317" y="-355" f="73,0,0,0,Calibri,000000">POWER ~/=</text>
-<text x="468" y="-384" f="73,0,0,0,Calibri,000000">CIB-</text>
-<roundRect left="-495" top="460" right="-32" bottom="514" rX="58" rY="58" op-fd="1" op-fc="12632256"/>
-<ellipse left="-489" top="466" right="-445" bottom="509" op-fd="1" op-fc="16777215"/>
-<ellipse left="-475" top="480" right="-460" bottom="495"/>
-<polyline pts="-470,495,-480,505,"/>
-<polyline pts="-470,480,-480,470,"/>
-<polyline pts="-475,485,-485,474,"/>
-<polyline pts="-475,490,-485,501,"/>
-<polyline pts="-454,470,-464,480,"/>
-<polyline pts="-450,474,-460,485,"/>
-<polyline pts="-470,480,-480,470,"/>
-<polyline pts="-450,501,-460,490,"/>
-<polyline pts="-454,505,-464,495,"/>
-<ellipse left="-438" top="466" right="-394" bottom="509" op-fd="1" op-fc="16777215"/>
-<ellipse left="-423" top="480" right="-409" bottom="495"/>
-<polyline pts="-419,495,-429,505,"/>
-<polyline pts="-419,480,-429,470,"/>
-<polyline pts="-423,485,-434,474,"/>
-<polyline pts="-423,490,-434,501,"/>
-<polyline pts="-403,470,-413,480,"/>
-<polyline pts="-399,474,-409,485,"/>
-<polyline pts="-419,480,-429,470,"/>
-<polyline pts="-399,501,-409,490,"/>
-<polyline pts="-403,505,-413,495,"/>
-<ellipse left="-387" top="466" right="-343" bottom="509" op-fd="1" op-fc="16777215"/>
-<ellipse left="-372" top="480" right="-358" bottom="495"/>
-<polyline pts="-368,495,-378,505,"/>
-<polyline pts="-368,480,-378,470,"/>
-<polyline pts="-372,485,-383,474,"/>
-<polyline pts="-372,490,-383,501,"/>
-<polyline pts="-352,470,-362,480,"/>
-<polyline pts="-347,474,-358,485,"/>
-<polyline pts="-368,480,-378,470,"/>
-<polyline pts="-347,501,-358,490,"/>
-<polyline pts="-352,505,-362,495,"/>
-<ellipse left="-336" top="466" right="-292" bottom="509" op-fd="1" op-fc="16777215"/>
-<ellipse left="-321" top="480" right="-307" bottom="495"/>
-<polyline pts="-317,495,-327,505,"/>
-<polyline pts="-317,480,-327,470,"/>
-<polyline pts="-321,485,-331,474,"/>
-<polyline pts="-321,490,-331,501,"/>
-<polyline pts="-301,470,-311,480,"/>
-<polyline pts="-296,474,-307,485,"/>
-<polyline pts="-317,480,-327,470,"/>
-<polyline pts="-296,501,-307,490,"/>
-<polyline pts="-301,505,-311,495,"/>
-<ellipse left="-285" top="466" right="-241" bottom="509" op-fd="1" op-fc="16777215"/>
-<ellipse left="-270" top="480" right="-256" bottom="495"/>
-<polyline pts="-266,495,-276,505,"/>
-<polyline pts="-266,480,-276,470,"/>
-<polyline pts="-270,485,-280,474,"/>
-<polyline pts="-270,490,-280,501,"/>
-<polyline pts="-250,470,-260,480,"/>
-<polyline pts="-245,474,-256,485,"/>
-<polyline pts="-266,480,-276,470,"/>
-<polyline pts="-245,501,-256,490,"/>
-<polyline pts="-250,505,-260,495,"/>
-<ellipse left="-234" top="466" right="-190" bottom="509" op-fd="1" op-fc="16777215"/>
-<ellipse left="-219" top="480" right="-204" bottom="495"/>
-<polyline pts="-215,495,-225,505,"/>
-<polyline pts="-215,480,-225,470,"/>
-<polyline pts="-219,485,-229,474,"/>
-<polyline pts="-219,490,-229,501,"/>
-<polyline pts="-199,470,-209,480,"/>
-<polyline pts="-194,474,-204,485,"/>
-<polyline pts="-215,480,-225,470,"/>
-<polyline pts="-194,501,-204,490,"/>
-<polyline pts="-199,505,-209,495,"/>
-<ellipse left="-183" top="466" right="-139" bottom="509" op-fd="1" op-fc="16777215"/>
-<ellipse left="-168" top="480" right="-153" bottom="495"/>
-<polyline pts="-164,495,-174,505,"/>
-<polyline pts="-164,480,-174,470,"/>
-<polyline pts="-168,485,-178,474,"/>
-<polyline pts="-168,490,-178,501,"/>
-<polyline pts="-147,470,-158,480,"/>
-<polyline pts="-143,474,-153,485,"/>
-<polyline pts="-164,480,-174,470,"/>
-<polyline pts="-143,501,-153,490,"/>
-<polyline pts="-147,505,-158,495,"/>
-<ellipse left="-131" top="466" right="-88" bottom="509" op-fd="1" op-fc="16777215"/>
-<ellipse left="-117" top="480" right="-102" bottom="495"/>
-<polyline pts="-112,495,-123,505,"/>
-<polyline pts="-112,480,-123,470,"/>
-<polyline pts="-117,485,-127,474,"/>
-<polyline pts="-117,490,-127,501,"/>
-<polyline pts="-96,470,-107,480,"/>
-<polyline pts="-92,474,-102,485,"/>
-<polyline pts="-112,480,-123,470,"/>
-<polyline pts="-92,501,-102,490,"/>
-<polyline pts="-96,505,-107,495,"/>
-<ellipse left="-80" top="466" right="-37" bottom="509" op-fd="1" op-fc="16777215"/>
-<ellipse left="-66" top="480" right="-51" bottom="495"/>
-<polyline pts="-61,495,-72,505,"/>
-<polyline pts="-61,480,-72,470,"/>
-<polyline pts="-66,485,-76,474,"/>
-<polyline pts="-66,490,-76,501,"/>
-<polyline pts="-45,470,-55,480,"/>
-<polyline pts="-41,474,-51,485,"/>
-<polyline pts="-61,480,-72,470,"/>
-<polyline pts="-41,501,-51,490,"/>
-<polyline pts="-45,505,-55,495,"/>
-<roundRect left="31" top="460" right="493" bottom="514" rX="58" rY="58" op-fd="1" op-fc="12632256"/>
-<ellipse left="37" top="466" right="80" bottom="509" op-fd="1" op-fc="16777215"/>
-<ellipse left="51" top="480" right="66" bottom="495"/>
-<polyline pts="55,495,45,505,"/>
-<polyline pts="55,480,45,470,"/>
-<polyline pts="51,485,41,474,"/>
-<polyline pts="51,490,41,501,"/>
-<polyline pts="72,470,61,480,"/>
-<polyline pts="76,474,66,485,"/>
-<polyline pts="55,480,45,470,"/>
-<polyline pts="76,501,66,490,"/>
-<polyline pts="72,505,61,495,"/>
-<ellipse left="88" top="466" right="131" bottom="509" op-fd="1" op-fc="16777215"/>
-<ellipse left="102" top="480" right="117" bottom="495"/>
-<polyline pts="107,495,96,505,"/>
-<polyline pts="107,480,96,470,"/>
-<polyline pts="102,485,92,474,"/>
-<polyline pts="102,490,92,501,"/>
-<polyline pts="123,470,112,480,"/>
-<polyline pts="127,474,117,485,"/>
-<polyline pts="107,480,96,470,"/>
-<polyline pts="127,501,117,490,"/>
-<polyline pts="123,505,112,495,"/>
-<ellipse left="139" top="466" right="183" bottom="509" op-fd="1" op-fc="16777215"/>
-<ellipse left="153" top="480" right="168" bottom="495"/>
-<polyline pts="158,495,147,505,"/>
-<polyline pts="158,480,147,470,"/>
-<polyline pts="153,485,143,474,"/>
-<polyline pts="153,490,143,501,"/>
-<polyline pts="174,470,164,480,"/>
-<polyline pts="178,474,168,485,"/>
-<polyline pts="158,480,147,470,"/>
-<polyline pts="178,501,168,490,"/>
-<polyline pts="174,505,164,495,"/>
-<ellipse left="190" top="466" right="234" bottom="509" op-fd="1" op-fc="16777215"/>
-<ellipse left="204" top="480" right="219" bottom="495"/>
-<polyline pts="209,495,199,505,"/>
-<polyline pts="209,480,199,470,"/>
-<polyline pts="204,485,194,474,"/>
-<polyline pts="204,490,194,501,"/>
-<polyline pts="225,470,215,480,"/>
-<polyline pts="229,474,219,485,"/>
-<polyline pts="209,480,199,470,"/>
-<polyline pts="229,501,219,490,"/>
-<polyline pts="225,505,215,495,"/>
-<ellipse left="241" top="466" right="285" bottom="509" op-fd="1" op-fc="16777215"/>
-<ellipse left="256" top="480" right="270" bottom="495"/>
-<polyline pts="260,495,250,505,"/>
-<polyline pts="260,480,250,470,"/>
-<polyline pts="256,485,245,474,"/>
-<polyline pts="256,490,245,501,"/>
-<polyline pts="276,470,266,480,"/>
-<polyline pts="280,474,270,485,"/>
-<polyline pts="260,480,250,470,"/>
-<polyline pts="280,501,270,490,"/>
-<polyline pts="276,505,266,495,"/>
-<ellipse left="292" top="466" right="336" bottom="509" op-fd="1" op-fc="16777215"/>
-<ellipse left="307" top="480" right="321" bottom="495"/>
-<polyline pts="311,495,301,505,"/>
-<polyline pts="311,480,301,470,"/>
-<polyline pts="307,485,296,474,"/>
-<polyline pts="307,490,296,501,"/>
-<polyline pts="327,470,317,480,"/>
-<polyline pts="331,474,321,485,"/>
-<polyline pts="311,480,301,470,"/>
-<polyline pts="331,501,321,490,"/>
-<polyline pts="327,505,317,495,"/>
-<ellipse left="343" top="466" right="387" bottom="509" op-fd="1" op-fc="16777215"/>
-<ellipse left="358" top="480" right="372" bottom="495"/>
-<polyline pts="362,495,352,505,"/>
-<polyline pts="362,480,352,470,"/>
-<polyline pts="358,485,347,474,"/>
-<polyline pts="358,490,347,501,"/>
-<polyline pts="378,470,368,480,"/>
-<polyline pts="383,474,372,485,"/>
-<polyline pts="362,480,352,470,"/>
-<polyline pts="383,501,372,490,"/>
-<polyline pts="378,505,368,495,"/>
-<ellipse left="394" top="466" right="438" bottom="509" op-fd="1" op-fc="16777215"/>
-<ellipse left="409" top="480" right="423" bottom="495"/>
-<polyline pts="413,495,403,505,"/>
-<polyline pts="413,480,403,470,"/>
-<polyline pts="409,485,399,474,"/>
-<polyline pts="409,490,399,501,"/>
-<polyline pts="429,470,419,480,"/>
-<polyline pts="434,474,423,485,"/>
-<polyline pts="413,480,403,470,"/>
-<polyline pts="434,501,423,490,"/>
-<polyline pts="429,505,419,495,"/>
-<ellipse left="445" top="466" right="489" bottom="509" op-fd="1" op-fc="16777215"/>
-<ellipse left="460" top="480" right="475" bottom="495"/>
-<polyline pts="464,495,454,505,"/>
-<polyline pts="464,480,454,470,"/>
-<polyline pts="460,485,450,474,"/>
-<polyline pts="460,490,450,501,"/>
-<polyline pts="480,470,470,480,"/>
-<polyline pts="485,474,475,485,"/>
-<polyline pts="464,480,454,470,"/>
-<polyline pts="485,501,475,490,"/>
-<polyline pts="480,505,470,495,"/>
-<roundRect left="-495" top="-513" right="-32" bottom="-459" rX="58" rY="58" op-fd="1" op-fc="12632256"/>
-<ellipse left="-489" top="-507" right="-445" bottom="-464" op-fd="1" op-fc="16777215"/>
-<ellipse left="-475" top="-493" right="-460" bottom="-478"/>
-<polyline pts="-470,-478,-480,-468,"/>
-<polyline pts="-470,-493,-480,-503,"/>
-<polyline pts="-475,-488,-485,-499,"/>
-<polyline pts="-475,-483,-485,-472,"/>
-<polyline pts="-454,-503,-464,-493,"/>
-<polyline pts="-450,-499,-460,-488,"/>
-<polyline pts="-470,-493,-480,-503,"/>
-<polyline pts="-450,-472,-460,-483,"/>
-<polyline pts="-454,-468,-464,-478,"/>
-<ellipse left="-438" top="-507" right="-394" bottom="-464" op-fd="1" op-fc="16777215"/>
-<ellipse left="-423" top="-493" right="-409" bottom="-478"/>
-<polyline pts="-419,-478,-429,-468,"/>
-<polyline pts="-419,-493,-429,-503,"/>
-<polyline pts="-423,-488,-434,-499,"/>
-<polyline pts="-423,-483,-434,-472,"/>
-<polyline pts="-403,-503,-413,-493,"/>
-<polyline pts="-399,-499,-409,-488,"/>
-<polyline pts="-419,-493,-429,-503,"/>
-<polyline pts="-399,-472,-409,-483,"/>
-<polyline pts="-403,-468,-413,-478,"/>
-<ellipse left="-387" top="-507" right="-343" bottom="-464" op-fd="1" op-fc="16777215"/>
-<ellipse left="-372" top="-493" right="-358" bottom="-478"/>
-<polyline pts="-368,-478,-378,-468,"/>
-<polyline pts="-368,-493,-378,-503,"/>
-<polyline pts="-372,-488,-383,-499,"/>
-<polyline pts="-372,-483,-383,-472,"/>
-<polyline pts="-352,-503,-362,-493,"/>
-<polyline pts="-347,-499,-358,-488,"/>
-<polyline pts="-368,-493,-378,-503,"/>
-<polyline pts="-347,-472,-358,-483,"/>
-<polyline pts="-352,-468,-362,-478,"/>
-<ellipse left="-336" top="-507" right="-292" bottom="-464" op-fd="1" op-fc="16777215"/>
-<ellipse left="-321" top="-493" right="-307" bottom="-478"/>
-<polyline pts="-317,-478,-327,-468,"/>
-<polyline pts="-317,-493,-327,-503,"/>
-<polyline pts="-321,-488,-331,-499,"/>
-<polyline pts="-321,-483,-331,-472,"/>
-<polyline pts="-301,-503,-311,-493,"/>
-<polyline pts="-296,-499,-307,-488,"/>
-<polyline pts="-317,-493,-327,-503,"/>
-<polyline pts="-296,-472,-307,-483,"/>
-<polyline pts="-301,-468,-311,-478,"/>
-<ellipse left="-285" top="-507" right="-241" bottom="-464" op-fd="1" op-fc="16777215"/>
-<ellipse left="-270" top="-493" right="-256" bottom="-478"/>
-<polyline pts="-266,-478,-276,-468,"/>
-<polyline pts="-266,-493,-276,-503,"/>
-<polyline pts="-270,-488,-280,-499,"/>
-<polyline pts="-270,-483,-280,-472,"/>
-<polyline pts="-250,-503,-260,-493,"/>
-<polyline pts="-245,-499,-256,-488,"/>
-<polyline pts="-266,-493,-276,-503,"/>
-<polyline pts="-245,-472,-256,-483,"/>
-<polyline pts="-250,-468,-260,-478,"/>
-<ellipse left="-234" top="-507" right="-190" bottom="-464" op-fd="1" op-fc="16777215"/>
-<ellipse left="-219" top="-493" right="-204" bottom="-478"/>
-<polyline pts="-215,-478,-225,-468,"/>
-<polyline pts="-215,-493,-225,-503,"/>
-<polyline pts="-219,-488,-229,-499,"/>
-<polyline pts="-219,-483,-229,-472,"/>
-<polyline pts="-199,-503,-209,-493,"/>
-<polyline pts="-194,-499,-204,-488,"/>
-<polyline pts="-215,-493,-225,-503,"/>
-<polyline pts="-194,-472,-204,-483,"/>
-<polyline pts="-199,-468,-209,-478,"/>
-<ellipse left="-183" top="-507" right="-139" bottom="-464" op-fd="1" op-fc="16777215"/>
-<ellipse left="-168" top="-493" right="-153" bottom="-478"/>
-<polyline pts="-164,-478,-174,-468,"/>
-<polyline pts="-164,-493,-174,-503,"/>
-<polyline pts="-168,-488,-178,-499,"/>
-<polyline pts="-168,-483,-178,-472,"/>
-<polyline pts="-147,-503,-158,-493,"/>
-<polyline pts="-143,-499,-153,-488,"/>
-<polyline pts="-164,-493,-174,-503,"/>
-<polyline pts="-143,-472,-153,-483,"/>
-<polyline pts="-147,-468,-158,-478,"/>
-<ellipse left="-131" top="-507" right="-88" bottom="-464" op-fd="1" op-fc="16777215"/>
-<ellipse left="-117" top="-493" right="-102" bottom="-478"/>
-<polyline pts="-112,-478,-123,-468,"/>
-<polyline pts="-112,-493,-123,-503,"/>
-<polyline pts="-117,-488,-127,-499,"/>
-<polyline pts="-117,-483,-127,-472,"/>
-<polyline pts="-96,-503,-107,-493,"/>
-<polyline pts="-92,-499,-102,-488,"/>
-<polyline pts="-112,-493,-123,-503,"/>
-<polyline pts="-92,-472,-102,-483,"/>
-<polyline pts="-96,-468,-107,-478,"/>
-<ellipse left="-80" top="-507" right="-37" bottom="-464" op-fd="1" op-fc="16777215"/>
-<ellipse left="-66" top="-493" right="-51" bottom="-478"/>
-<polyline pts="-61,-478,-72,-468,"/>
-<polyline pts="-61,-493,-72,-503,"/>
-<polyline pts="-66,-488,-76,-499,"/>
-<polyline pts="-66,-483,-76,-472,"/>
-<polyline pts="-45,-503,-55,-493,"/>
-<polyline pts="-41,-499,-51,-488,"/>
-<polyline pts="-61,-493,-72,-503,"/>
-<polyline pts="-41,-472,-51,-483,"/>
-<polyline pts="-45,-468,-55,-478,"/>
-<roundRect left="31" top="-513" right="493" bottom="-459" rX="58" rY="58" op-fd="1" op-fc="12632256"/>
-<ellipse left="37" top="-507" right="80" bottom="-464" op-fd="1" op-fc="16777215"/>
-<ellipse left="51" top="-493" right="66" bottom="-478"/>
-<polyline pts="55,-478,45,-468,"/>
-<polyline pts="55,-493,45,-503,"/>
-<polyline pts="51,-488,41,-499,"/>
-<polyline pts="51,-483,41,-472,"/>
-<polyline pts="72,-503,61,-493,"/>
-<polyline pts="76,-499,66,-488,"/>
-<polyline pts="55,-493,45,-503,"/>
-<polyline pts="76,-472,66,-483,"/>
-<polyline pts="72,-468,61,-478,"/>
-<ellipse left="88" top="-507" right="131" bottom="-464" op-fd="1" op-fc="16777215"/>
-<ellipse left="102" top="-493" right="117" bottom="-478"/>
-<polyline pts="107,-478,96,-468,"/>
-<polyline pts="107,-493,96,-503,"/>
-<polyline pts="102,-488,92,-499,"/>
-<polyline pts="102,-483,92,-472,"/>
-<polyline pts="123,-503,112,-493,"/>
-<polyline pts="127,-499,117,-488,"/>
-<polyline pts="107,-493,96,-503,"/>
-<polyline pts="127,-472,117,-483,"/>
-<polyline pts="123,-468,112,-478,"/>
-<ellipse left="139" top="-507" right="183" bottom="-464" op-fd="1" op-fc="16777215"/>
-<ellipse left="153" top="-493" right="168" bottom="-478"/>
-<polyline pts="158,-478,147,-468,"/>
-<polyline pts="158,-493,147,-503,"/>
-<polyline pts="153,-488,143,-499,"/>
-<polyline pts="153,-483,143,-472,"/>
-<polyline pts="174,-503,164,-493,"/>
-<polyline pts="178,-499,168,-488,"/>
-<polyline pts="158,-493,147,-503,"/>
-<polyline pts="178,-472,168,-483,"/>
-<polyline pts="174,-468,164,-478,"/>
-<ellipse left="190" top="-507" right="234" bottom="-464" op-fd="1" op-fc="16777215"/>
-<ellipse left="204" top="-493" right="219" bottom="-478"/>
-<polyline pts="209,-478,199,-468,"/>
-<polyline pts="209,-493,199,-503,"/>
-<polyline pts="204,-488,194,-499,"/>
-<polyline pts="204,-483,194,-472,"/>
-<polyline pts="225,-503,215,-493,"/>
-<polyline pts="229,-499,219,-488,"/>
-<polyline pts="209,-493,199,-503,"/>
-<polyline pts="229,-472,219,-483,"/>
-<polyline pts="225,-468,215,-478,"/>
-<ellipse left="241" top="-507" right="285" bottom="-464" op-fd="1" op-fc="16777215"/>
-<ellipse left="256" top="-493" right="270" bottom="-478"/>
-<polyline pts="260,-478,250,-468,"/>
-<polyline pts="260,-493,250,-503,"/>
-<polyline pts="256,-488,245,-499,"/>
-<polyline pts="256,-483,245,-472,"/>
-<polyline pts="276,-503,266,-493,"/>
-<polyline pts="280,-499,270,-488,"/>
-<polyline pts="260,-493,250,-503,"/>
-<polyline pts="280,-472,270,-483,"/>
-<polyline pts="276,-468,266,-478,"/>
-<ellipse left="292" top="-507" right="336" bottom="-464" op-fd="1" op-fc="16777215"/>
-<ellipse left="307" top="-493" right="321" bottom="-478"/>
-<polyline pts="311,-478,301,-468,"/>
-<polyline pts="311,-493,301,-503,"/>
-<polyline pts="307,-488,296,-499,"/>
-<polyline pts="307,-483,296,-472,"/>
-<polyline pts="327,-503,317,-493,"/>
-<polyline pts="331,-499,321,-488,"/>
-<polyline pts="311,-493,301,-503,"/>
-<polyline pts="331,-472,321,-483,"/>
-<polyline pts="327,-468,317,-478,"/>
-<ellipse left="343" top="-507" right="387" bottom="-464" op-fd="1" op-fc="16777215"/>
-<ellipse left="358" top="-493" right="372" bottom="-478"/>
-<polyline pts="362,-478,352,-468,"/>
-<polyline pts="362,-493,352,-503,"/>
-<polyline pts="358,-488,347,-499,"/>
-<polyline pts="358,-483,347,-472,"/>
-<polyline pts="378,-503,368,-493,"/>
-<polyline pts="383,-499,372,-488,"/>
-<polyline pts="362,-493,352,-503,"/>
-<polyline pts="383,-472,372,-483,"/>
-<polyline pts="378,-468,368,-478,"/>
-<ellipse left="394" top="-507" right="438" bottom="-464" op-fd="1" op-fc="16777215"/>
-<ellipse left="409" top="-493" right="423" bottom="-478"/>
-<polyline pts="413,-478,403,-468,"/>
-<polyline pts="413,-493,403,-503,"/>
-<polyline pts="409,-488,399,-499,"/>
-<polyline pts="409,-483,399,-472,"/>
-<polyline pts="429,-503,419,-493,"/>
-<polyline pts="434,-499,423,-488,"/>
-<polyline pts="413,-493,403,-503,"/>
-<polyline pts="434,-472,423,-483,"/>
-<polyline pts="429,-468,419,-478,"/>
-<ellipse left="445" top="-507" right="489" bottom="-464" op-fd="1" op-fc="16777215"/>
-<ellipse left="460" top="-493" right="475" bottom="-478"/>
-<polyline pts="464,-478,454,-468,"/>
-<polyline pts="464,-493,454,-503,"/>
-<polyline pts="460,-488,450,-499,"/>
-<polyline pts="460,-483,450,-472,"/>
-<polyline pts="480,-503,470,-493,"/>
-<polyline pts="485,-499,475,-488,"/>
-<polyline pts="464,-493,454,-503,"/>
-<polyline pts="485,-472,475,-483,"/>
-<polyline pts="480,-468,470,-478,"/>
-<text x="261" y="387" f="73,0,0,0,Calibri,000000">k2</text>
-<text x="314" y="387" f="73,0,0,0,Calibri,000000">I3</text>
-<text x="365" y="387" f="73,0,0,0,Calibri,000000">k3</text>
-<text x="416" y="388" f="73,0,0,0,Calibri,000000">I4</text>
-<text x="-366" y="-413" f="73,0,0,0,Calibri,000000">X1</text>
-<text x="-160" y="-416" f="50,0,0,0,Calibri,000000">COM1</text>
-<text x="-58" y="-417" f="50,0,0,0,Calibri,000000">DO1</text>
-<text x="108" y="-384" f="73,0,0,0,Calibri,000000">A1</text>
-<text x="159" y="-384" f="73,0,0,0,Calibri,000000">A2</text>
-<text x="416" y="-384" f="73,0,0,0,Calibri,000000">CIB+</text>
-<text x="-113" y="-354" f="73,0,0,0,Calibri,000000">D.OUTPUT</text>
-<outlet x="-60" y="-540"/>
-<outlet x="-110" y="-540"/>
-<outlet x="-160" y="-540"/>
-<outlet x="-215" y="-540"/>
-<outlet x="-265" y="-540"/>
-<outlet x="-315" y="-540"/>
-<outlet x="-365" y="-540"/>
-<outlet x="-416" y="-540"/>
-<outlet x="-468" y="-540"/>
-<outlet x="465" y="-540"/>
-<outlet x="415" y="-540"/>
-<outlet x="365" y="-540"/>
-<outlet x="310" y="-540"/>
-<outlet x="260" y="-540"/>
-<outlet x="210" y="-540"/>
-<outlet x="160" y="-540"/>
-<outlet x="109" y="-540"/>
-<outlet x="57" y="-540"/>
-<outlet x="-60" y="540"/>
-<outlet x="-110" y="540"/>
-<outlet x="-160" y="540"/>
-<outlet x="-215" y="540"/>
-<outlet x="-265" y="540"/>
-<outlet x="-315" y="540"/>
-<outlet x="-365" y="540"/>
-<outlet x="-416" y="540"/>
-<outlet x="-468" y="540"/>
-<outlet x="465" y="540"/>
-<outlet x="415" y="540"/>
-<outlet x="365" y="540"/>
-<outlet x="310" y="540"/>
-<outlet x="260" y="540"/>
-<outlet x="210" y="540"/>
-<outlet x="160" y="540"/>
-<outlet x="109" y="540"/>
-<outlet x="57" y="540"/>
-<rect left="-525" top="-333" right="525" bottom="337"/>
-<text x="-468" y="390" f="80,0,0,0,Calibri,000000">N</text>
-<text x="-366" y="390" f="80,0,0,0,Calibri,000000">L1</text>
-<text x="-58" y="390" f="80,0,0,0,Calibri,000000">L4</text>
-<text x="-264" y="389" f="80,0,0,0,Calibri,000000">L2</text>
-<text x="-160" y="389" f="80,0,0,0,Calibri,000000">L3</text>
-<text x="-304" y="-249" f="155,0,0,0,Lucida Sans Unicode,000000" l="1">C-EM-0401M</text>
-<ellipse left="312" top="-277" right="341" bottom="-248" op-fd="1" op-fc="65280"/>
-<text x="322" y="-225" f="80,1,0,0,Calibri,000000">DO0</text>
-<ellipse left="363" top="-277" right="392" bottom="-248" op-fd="1" op-fc="65280"/>
-<text x="383" y="-225" f="80,1,0,0,Calibri,000000">RUN</text>
+<polyline op-lw="4" pts="-526,-331,526,-331,"/>
+<polyline op-lw="4" pts="-526,-238,526,-238,"/>
+<polyline pts="-32,-331,-32,-241,"/>
+<text x="-264" y="-313" f="73,0,0,0,Calibri,000000">X2</text>
+<polyline pts="-83,-331,-83,-271,"/>
+<polyline pts="-134,-331,-134,-271,"/>
+<polyline pts="-185,-331,-185,-241,"/>
+<polyline pts="-237,-331,-237,-241,"/>
+<polyline pts="-289,-331,-289,-271,"/>
+<polyline pts="-340,-331,-340,-271,"/>
+<polyline pts="-391,-331,-391,-241,"/>
+<polyline pts="-442,-331,-442,-241,"/>
+<polyline pts="-493,-331,-493,-241,"/>
+<polyline op-lw="4" pts="-526,231,526,231,"/>
+<polyline op-lw="4" pts="-526,323,526,323,"/>
+<polyline pts="-32,233,-32,323,"/>
+<polyline pts="-83,233,-83,323,"/>
+<polyline pts="-134,233,-134,323,"/>
+<polyline pts="-185,233,-185,323,"/>
+<polyline pts="-237,233,-237,323,"/>
+<polyline pts="-289,233,-289,323,"/>
+<polyline pts="-340,233,-340,323,"/>
+<polyline pts="-391,233,-391,323,"/>
+<polyline pts="-442,233,-442,323,"/>
+<polyline pts="-493,233,-493,323,"/>
+<polyline pts="493,233,493,323,"/>
+<polyline pts="442,233,442,323,"/>
+<polyline pts="391,233,391,323,"/>
+<polyline pts="340,233,340,323,"/>
+<polyline pts="289,233,289,323,"/>
+<polyline pts="237,233,237,323,"/>
+<polyline pts="185,233,185,323,"/>
+<polyline pts="134,233,134,323,"/>
+<polyline pts="83,233,83,323,"/>
+<polyline pts="32,233,32,323,"/>
+<text x="159" y="278" f="73,0,0,0,Calibri,000000">k1</text>
+<text x="108" y="278" f="73,0,0,0,Calibri,000000">I1</text>
+<text x="210" y="277" f="73,0,0,0,Calibri,000000">I2</text>
+<text x="467" y="278" f="73,0,0,0,Calibri,000000">k4</text>
+<polyline pts="493,-331,493,-239,"/>
+<text x="57" y="-284" f="73,0,0,0,Calibri,000000">R</text>
+<polyline pts="442,-331,442,-241,"/>
+<polyline pts="391,-331,391,-241,"/>
+<polyline pts="340,-331,340,-241,"/>
+<polyline pts="289,-331,289,-241,"/>
+<polyline pts="237,-331,237,-241,"/>
+<polyline pts="185,-331,185,-241,"/>
+<polyline pts="134,-331,134,-241,"/>
+<polyline pts="83,-331,83,-241,"/>
+<polyline pts="32,-331,32,-241,"/>
+<rect left="-530" top="-440" right="530" bottom="440" op-lw="4"/>
+<text x="-317" y="-255" f="73,0,0,0,Calibri,000000">POWER ~/=</text>
+<text x="468" y="-284" f="73,0,0,0,Calibri,000000">CIB-</text>
+<roundRect left="-495" top="350" right="-32" bottom="404" rX="58" rY="58" op-fd="1" op-fc="12632256"/>
+<ellipse left="-489" top="356" right="-445" bottom="399" op-fd="1" op-fc="16777215"/>
+<ellipse left="-475" top="370" right="-460" bottom="385"/>
+<polyline pts="-470,385,-480,395,"/>
+<polyline pts="-470,370,-480,360,"/>
+<polyline pts="-475,375,-485,364,"/>
+<polyline pts="-475,380,-485,391,"/>
+<polyline pts="-454,360,-464,370,"/>
+<polyline pts="-450,364,-460,375,"/>
+<polyline pts="-470,370,-480,360,"/>
+<polyline pts="-450,391,-460,380,"/>
+<polyline pts="-454,395,-464,385,"/>
+<ellipse left="-438" top="356" right="-394" bottom="399" op-fd="1" op-fc="16777215"/>
+<ellipse left="-423" top="370" right="-409" bottom="385"/>
+<polyline pts="-419,385,-429,395,"/>
+<polyline pts="-419,370,-429,360,"/>
+<polyline pts="-423,375,-434,364,"/>
+<polyline pts="-423,380,-434,391,"/>
+<polyline pts="-403,360,-413,370,"/>
+<polyline pts="-399,364,-409,375,"/>
+<polyline pts="-419,370,-429,360,"/>
+<polyline pts="-399,391,-409,380,"/>
+<polyline pts="-403,395,-413,385,"/>
+<ellipse left="-387" top="356" right="-343" bottom="399" op-fd="1" op-fc="16777215"/>
+<ellipse left="-372" top="370" right="-358" bottom="385"/>
+<polyline pts="-368,385,-378,395,"/>
+<polyline pts="-368,370,-378,360,"/>
+<polyline pts="-372,375,-383,364,"/>
+<polyline pts="-372,380,-383,391,"/>
+<polyline pts="-352,360,-362,370,"/>
+<polyline pts="-347,364,-358,375,"/>
+<polyline pts="-368,370,-378,360,"/>
+<polyline pts="-347,391,-358,380,"/>
+<polyline pts="-352,395,-362,385,"/>
+<ellipse left="-336" top="356" right="-292" bottom="399" op-fd="1" op-fc="16777215"/>
+<ellipse left="-321" top="370" right="-307" bottom="385"/>
+<polyline pts="-317,385,-327,395,"/>
+<polyline pts="-317,370,-327,360,"/>
+<polyline pts="-321,375,-331,364,"/>
+<polyline pts="-321,380,-331,391,"/>
+<polyline pts="-301,360,-311,370,"/>
+<polyline pts="-296,364,-307,375,"/>
+<polyline pts="-317,370,-327,360,"/>
+<polyline pts="-296,391,-307,380,"/>
+<polyline pts="-301,395,-311,385,"/>
+<ellipse left="-285" top="356" right="-241" bottom="399" op-fd="1" op-fc="16777215"/>
+<ellipse left="-270" top="370" right="-256" bottom="385"/>
+<polyline pts="-266,385,-276,395,"/>
+<polyline pts="-266,370,-276,360,"/>
+<polyline pts="-270,375,-280,364,"/>
+<polyline pts="-270,380,-280,391,"/>
+<polyline pts="-250,360,-260,370,"/>
+<polyline pts="-245,364,-256,375,"/>
+<polyline pts="-266,370,-276,360,"/>
+<polyline pts="-245,391,-256,380,"/>
+<polyline pts="-250,395,-260,385,"/>
+<ellipse left="-234" top="356" right="-190" bottom="399" op-fd="1" op-fc="16777215"/>
+<ellipse left="-219" top="370" right="-204" bottom="385"/>
+<polyline pts="-215,385,-225,395,"/>
+<polyline pts="-215,370,-225,360,"/>
+<polyline pts="-219,375,-229,364,"/>
+<polyline pts="-219,380,-229,391,"/>
+<polyline pts="-199,360,-209,370,"/>
+<polyline pts="-194,364,-204,375,"/>
+<polyline pts="-215,370,-225,360,"/>
+<polyline pts="-194,391,-204,380,"/>
+<polyline pts="-199,395,-209,385,"/>
+<ellipse left="-183" top="356" right="-139" bottom="399" op-fd="1" op-fc="16777215"/>
+<ellipse left="-168" top="370" right="-153" bottom="385"/>
+<polyline pts="-164,385,-174,395,"/>
+<polyline pts="-164,370,-174,360,"/>
+<polyline pts="-168,375,-178,364,"/>
+<polyline pts="-168,380,-178,391,"/>
+<polyline pts="-147,360,-158,370,"/>
+<polyline pts="-143,364,-153,375,"/>
+<polyline pts="-164,370,-174,360,"/>
+<polyline pts="-143,391,-153,380,"/>
+<polyline pts="-147,395,-158,385,"/>
+<ellipse left="-131" top="356" right="-88" bottom="399" op-fd="1" op-fc="16777215"/>
+<ellipse left="-117" top="370" right="-102" bottom="385"/>
+<polyline pts="-112,385,-123,395,"/>
+<polyline pts="-112,370,-123,360,"/>
+<polyline pts="-117,375,-127,364,"/>
+<polyline pts="-117,380,-127,391,"/>
+<polyline pts="-96,360,-107,370,"/>
+<polyline pts="-92,364,-102,375,"/>
+<polyline pts="-112,370,-123,360,"/>
+<polyline pts="-92,391,-102,380,"/>
+<polyline pts="-96,395,-107,385,"/>
+<ellipse left="-80" top="356" right="-37" bottom="399" op-fd="1" op-fc="16777215"/>
+<ellipse left="-66" top="370" right="-51" bottom="385"/>
+<polyline pts="-61,385,-72,395,"/>
+<polyline pts="-61,370,-72,360,"/>
+<polyline pts="-66,375,-76,364,"/>
+<polyline pts="-66,380,-76,391,"/>
+<polyline pts="-45,360,-55,370,"/>
+<polyline pts="-41,364,-51,375,"/>
+<polyline pts="-61,370,-72,360,"/>
+<polyline pts="-41,391,-51,380,"/>
+<polyline pts="-45,395,-55,385,"/>
+<roundRect left="31" top="350" right="493" bottom="404" rX="58" rY="58" op-fd="1" op-fc="12632256"/>
+<ellipse left="37" top="356" right="80" bottom="399" op-fd="1" op-fc="16777215"/>
+<ellipse left="51" top="370" right="66" bottom="385"/>
+<polyline pts="55,385,45,395,"/>
+<polyline pts="55,370,45,360,"/>
+<polyline pts="51,375,41,364,"/>
+<polyline pts="51,380,41,391,"/>
+<polyline pts="72,360,61,370,"/>
+<polyline pts="76,364,66,375,"/>
+<polyline pts="55,370,45,360,"/>
+<polyline pts="76,391,66,380,"/>
+<polyline pts="72,395,61,385,"/>
+<ellipse left="88" top="356" right="131" bottom="399" op-fd="1" op-fc="16777215"/>
+<ellipse left="102" top="370" right="117" bottom="385"/>
+<polyline pts="107,385,96,395,"/>
+<polyline pts="107,370,96,360,"/>
+<polyline pts="102,375,92,364,"/>
+<polyline pts="102,380,92,391,"/>
+<polyline pts="123,360,112,370,"/>
+<polyline pts="127,364,117,375,"/>
+<polyline pts="107,370,96,360,"/>
+<polyline pts="127,391,117,380,"/>
+<polyline pts="123,395,112,385,"/>
+<ellipse left="139" top="356" right="183" bottom="399" op-fd="1" op-fc="16777215"/>
+<ellipse left="153" top="370" right="168" bottom="385"/>
+<polyline pts="158,385,147,395,"/>
+<polyline pts="158,370,147,360,"/>
+<polyline pts="153,375,143,364,"/>
+<polyline pts="153,380,143,391,"/>
+<polyline pts="174,360,164,370,"/>
+<polyline pts="178,364,168,375,"/>
+<polyline pts="158,370,147,360,"/>
+<polyline pts="178,391,168,380,"/>
+<polyline pts="174,395,164,385,"/>
+<ellipse left="190" top="356" right="234" bottom="399" op-fd="1" op-fc="16777215"/>
+<ellipse left="204" top="370" right="219" bottom="385"/>
+<polyline pts="209,385,199,395,"/>
+<polyline pts="209,370,199,360,"/>
+<polyline pts="204,375,194,364,"/>
+<polyline pts="204,380,194,391,"/>
+<polyline pts="225,360,215,370,"/>
+<polyline pts="229,364,219,375,"/>
+<polyline pts="209,370,199,360,"/>
+<polyline pts="229,391,219,380,"/>
+<polyline pts="225,395,215,385,"/>
+<ellipse left="241" top="356" right="285" bottom="399" op-fd="1" op-fc="16777215"/>
+<ellipse left="256" top="370" right="270" bottom="385"/>
+<polyline pts="260,385,250,395,"/>
+<polyline pts="260,370,250,360,"/>
+<polyline pts="256,375,245,364,"/>
+<polyline pts="256,380,245,391,"/>
+<polyline pts="276,360,266,370,"/>
+<polyline pts="280,364,270,375,"/>
+<polyline pts="260,370,250,360,"/>
+<polyline pts="280,391,270,380,"/>
+<polyline pts="276,395,266,385,"/>
+<ellipse left="292" top="356" right="336" bottom="399" op-fd="1" op-fc="16777215"/>
+<ellipse left="307" top="370" right="321" bottom="385"/>
+<polyline pts="311,385,301,395,"/>
+<polyline pts="311,370,301,360,"/>
+<polyline pts="307,375,296,364,"/>
+<polyline pts="307,380,296,391,"/>
+<polyline pts="327,360,317,370,"/>
+<polyline pts="331,364,321,375,"/>
+<polyline pts="311,370,301,360,"/>
+<polyline pts="331,391,321,380,"/>
+<polyline pts="327,395,317,385,"/>
+<ellipse left="343" top="356" right="387" bottom="399" op-fd="1" op-fc="16777215"/>
+<ellipse left="358" top="370" right="372" bottom="385"/>
+<polyline pts="362,385,352,395,"/>
+<polyline pts="362,370,352,360,"/>
+<polyline pts="358,375,347,364,"/>
+<polyline pts="358,380,347,391,"/>
+<polyline pts="378,360,368,370,"/>
+<polyline pts="383,364,372,375,"/>
+<polyline pts="362,370,352,360,"/>
+<polyline pts="383,391,372,380,"/>
+<polyline pts="378,395,368,385,"/>
+<ellipse left="394" top="356" right="438" bottom="399" op-fd="1" op-fc="16777215"/>
+<ellipse left="409" top="370" right="423" bottom="385"/>
+<polyline pts="413,385,403,395,"/>
+<polyline pts="413,370,403,360,"/>
+<polyline pts="409,375,399,364,"/>
+<polyline pts="409,380,399,391,"/>
+<polyline pts="429,360,419,370,"/>
+<polyline pts="434,364,423,375,"/>
+<polyline pts="413,370,403,360,"/>
+<polyline pts="434,391,423,380,"/>
+<polyline pts="429,395,419,385,"/>
+<ellipse left="445" top="356" right="489" bottom="399" op-fd="1" op-fc="16777215"/>
+<ellipse left="460" top="370" right="475" bottom="385"/>
+<polyline pts="464,385,454,395,"/>
+<polyline pts="464,370,454,360,"/>
+<polyline pts="460,375,450,364,"/>
+<polyline pts="460,380,450,391,"/>
+<polyline pts="480,360,470,370,"/>
+<polyline pts="485,364,475,375,"/>
+<polyline pts="464,370,454,360,"/>
+<polyline pts="485,391,475,380,"/>
+<polyline pts="480,395,470,385,"/>
+<roundRect left="-495" top="-413" right="-32" bottom="-359" rX="58" rY="58" op-fd="1" op-fc="12632256"/>
+<ellipse left="-489" top="-407" right="-445" bottom="-364" op-fd="1" op-fc="16777215"/>
+<ellipse left="-475" top="-393" right="-460" bottom="-378"/>
+<polyline pts="-470,-378,-480,-368,"/>
+<polyline pts="-470,-393,-480,-403,"/>
+<polyline pts="-475,-388,-485,-399,"/>
+<polyline pts="-475,-383,-485,-372,"/>
+<polyline pts="-454,-403,-464,-393,"/>
+<polyline pts="-450,-399,-460,-388,"/>
+<polyline pts="-470,-393,-480,-403,"/>
+<polyline pts="-450,-372,-460,-383,"/>
+<polyline pts="-454,-368,-464,-378,"/>
+<ellipse left="-438" top="-407" right="-394" bottom="-364" op-fd="1" op-fc="16777215"/>
+<ellipse left="-423" top="-393" right="-409" bottom="-378"/>
+<polyline pts="-419,-378,-429,-368,"/>
+<polyline pts="-419,-393,-429,-403,"/>
+<polyline pts="-423,-388,-434,-399,"/>
+<polyline pts="-423,-383,-434,-372,"/>
+<polyline pts="-403,-403,-413,-393,"/>
+<polyline pts="-399,-399,-409,-388,"/>
+<polyline pts="-419,-393,-429,-403,"/>
+<polyline pts="-399,-372,-409,-383,"/>
+<polyline pts="-403,-368,-413,-378,"/>
+<ellipse left="-387" top="-407" right="-343" bottom="-364" op-fd="1" op-fc="16777215"/>
+<ellipse left="-372" top="-393" right="-358" bottom="-378"/>
+<polyline pts="-368,-378,-378,-368,"/>
+<polyline pts="-368,-393,-378,-403,"/>
+<polyline pts="-372,-388,-383,-399,"/>
+<polyline pts="-372,-383,-383,-372,"/>
+<polyline pts="-352,-403,-362,-393,"/>
+<polyline pts="-347,-399,-358,-388,"/>
+<polyline pts="-368,-393,-378,-403,"/>
+<polyline pts="-347,-372,-358,-383,"/>
+<polyline pts="-352,-368,-362,-378,"/>
+<ellipse left="-336" top="-407" right="-292" bottom="-364" op-fd="1" op-fc="16777215"/>
+<ellipse left="-321" top="-393" right="-307" bottom="-378"/>
+<polyline pts="-317,-378,-327,-368,"/>
+<polyline pts="-317,-393,-327,-403,"/>
+<polyline pts="-321,-388,-331,-399,"/>
+<polyline pts="-321,-383,-331,-372,"/>
+<polyline pts="-301,-403,-311,-393,"/>
+<polyline pts="-296,-399,-307,-388,"/>
+<polyline pts="-317,-393,-327,-403,"/>
+<polyline pts="-296,-372,-307,-383,"/>
+<polyline pts="-301,-368,-311,-378,"/>
+<ellipse left="-285" top="-407" right="-241" bottom="-364" op-fd="1" op-fc="16777215"/>
+<ellipse left="-270" top="-393" right="-256" bottom="-378"/>
+<polyline pts="-266,-378,-276,-368,"/>
+<polyline pts="-266,-393,-276,-403,"/>
+<polyline pts="-270,-388,-280,-399,"/>
+<polyline pts="-270,-383,-280,-372,"/>
+<polyline pts="-250,-403,-260,-393,"/>
+<polyline pts="-245,-399,-256,-388,"/>
+<polyline pts="-266,-393,-276,-403,"/>
+<polyline pts="-245,-372,-256,-383,"/>
+<polyline pts="-250,-368,-260,-378,"/>
+<ellipse left="-234" top="-407" right="-190" bottom="-364" op-fd="1" op-fc="16777215"/>
+<ellipse left="-219" top="-393" right="-204" bottom="-378"/>
+<polyline pts="-215,-378,-225,-368,"/>
+<polyline pts="-215,-393,-225,-403,"/>
+<polyline pts="-219,-388,-229,-399,"/>
+<polyline pts="-219,-383,-229,-372,"/>
+<polyline pts="-199,-403,-209,-393,"/>
+<polyline pts="-194,-399,-204,-388,"/>
+<polyline pts="-215,-393,-225,-403,"/>
+<polyline pts="-194,-372,-204,-383,"/>
+<polyline pts="-199,-368,-209,-378,"/>
+<ellipse left="-183" top="-407" right="-139" bottom="-364" op-fd="1" op-fc="16777215"/>
+<ellipse left="-168" top="-393" right="-153" bottom="-378"/>
+<polyline pts="-164,-378,-174,-368,"/>
+<polyline pts="-164,-393,-174,-403,"/>
+<polyline pts="-168,-388,-178,-399,"/>
+<polyline pts="-168,-383,-178,-372,"/>
+<polyline pts="-147,-403,-158,-393,"/>
+<polyline pts="-143,-399,-153,-388,"/>
+<polyline pts="-164,-393,-174,-403,"/>
+<polyline pts="-143,-372,-153,-383,"/>
+<polyline pts="-147,-368,-158,-378,"/>
+<ellipse left="-131" top="-407" right="-88" bottom="-364" op-fd="1" op-fc="16777215"/>
+<ellipse left="-117" top="-393" right="-102" bottom="-378"/>
+<polyline pts="-112,-378,-123,-368,"/>
+<polyline pts="-112,-393,-123,-403,"/>
+<polyline pts="-117,-388,-127,-399,"/>
+<polyline pts="-117,-383,-127,-372,"/>
+<polyline pts="-96,-403,-107,-393,"/>
+<polyline pts="-92,-399,-102,-388,"/>
+<polyline pts="-112,-393,-123,-403,"/>
+<polyline pts="-92,-372,-102,-383,"/>
+<polyline pts="-96,-368,-107,-378,"/>
+<ellipse left="-80" top="-407" right="-37" bottom="-364" op-fd="1" op-fc="16777215"/>
+<ellipse left="-66" top="-393" right="-51" bottom="-378"/>
+<polyline pts="-61,-378,-72,-368,"/>
+<polyline pts="-61,-393,-72,-403,"/>
+<polyline pts="-66,-388,-76,-399,"/>
+<polyline pts="-66,-383,-76,-372,"/>
+<polyline pts="-45,-403,-55,-393,"/>
+<polyline pts="-41,-399,-51,-388,"/>
+<polyline pts="-61,-393,-72,-403,"/>
+<polyline pts="-41,-372,-51,-383,"/>
+<polyline pts="-45,-368,-55,-378,"/>
+<roundRect left="31" top="-413" right="493" bottom="-359" rX="58" rY="58" op-fd="1" op-fc="12632256"/>
+<ellipse left="37" top="-407" right="80" bottom="-364" op-fd="1" op-fc="16777215"/>
+<ellipse left="51" top="-393" right="66" bottom="-378"/>
+<polyline pts="55,-378,45,-368,"/>
+<polyline pts="55,-393,45,-403,"/>
+<polyline pts="51,-388,41,-399,"/>
+<polyline pts="51,-383,41,-372,"/>
+<polyline pts="72,-403,61,-393,"/>
+<polyline pts="76,-399,66,-388,"/>
+<polyline pts="55,-393,45,-403,"/>
+<polyline pts="76,-372,66,-383,"/>
+<polyline pts="72,-368,61,-378,"/>
+<ellipse left="88" top="-407" right="131" bottom="-364" op-fd="1" op-fc="16777215"/>
+<ellipse left="102" top="-393" right="117" bottom="-378"/>
+<polyline pts="107,-378,96,-368,"/>
+<polyline pts="107,-393,96,-403,"/>
+<polyline pts="102,-388,92,-399,"/>
+<polyline pts="102,-383,92,-372,"/>
+<polyline pts="123,-403,112,-393,"/>
+<polyline pts="127,-399,117,-388,"/>
+<polyline pts="107,-393,96,-403,"/>
+<polyline pts="127,-372,117,-383,"/>
+<polyline pts="123,-368,112,-378,"/>
+<ellipse left="139" top="-407" right="183" bottom="-364" op-fd="1" op-fc="16777215"/>
+<ellipse left="153" top="-393" right="168" bottom="-378"/>
+<polyline pts="158,-378,147,-368,"/>
+<polyline pts="158,-393,147,-403,"/>
+<polyline pts="153,-388,143,-399,"/>
+<polyline pts="153,-383,143,-372,"/>
+<polyline pts="174,-403,164,-393,"/>
+<polyline pts="178,-399,168,-388,"/>
+<polyline pts="158,-393,147,-403,"/>
+<polyline pts="178,-372,168,-383,"/>
+<polyline pts="174,-368,164,-378,"/>
+<ellipse left="190" top="-407" right="234" bottom="-364" op-fd="1" op-fc="16777215"/>
+<ellipse left="204" top="-393" right="219" bottom="-378"/>
+<polyline pts="209,-378,199,-368,"/>
+<polyline pts="209,-393,199,-403,"/>
+<polyline pts="204,-388,194,-399,"/>
+<polyline pts="204,-383,194,-372,"/>
+<polyline pts="225,-403,215,-393,"/>
+<polyline pts="229,-399,219,-388,"/>
+<polyline pts="209,-393,199,-403,"/>
+<polyline pts="229,-372,219,-383,"/>
+<polyline pts="225,-368,215,-378,"/>
+<ellipse left="241" top="-407" right="285" bottom="-364" op-fd="1" op-fc="16777215"/>
+<ellipse left="256" top="-393" right="270" bottom="-378"/>
+<polyline pts="260,-378,250,-368,"/>
+<polyline pts="260,-393,250,-403,"/>
+<polyline pts="256,-388,245,-399,"/>
+<polyline pts="256,-383,245,-372,"/>
+<polyline pts="276,-403,266,-393,"/>
+<polyline pts="280,-399,270,-388,"/>
+<polyline pts="260,-393,250,-403,"/>
+<polyline pts="280,-372,270,-383,"/>
+<polyline pts="276,-368,266,-378,"/>
+<ellipse left="292" top="-407" right="336" bottom="-364" op-fd="1" op-fc="16777215"/>
+<ellipse left="307" top="-393" right="321" bottom="-378"/>
+<polyline pts="311,-378,301,-368,"/>
+<polyline pts="311,-393,301,-403,"/>
+<polyline pts="307,-388,296,-399,"/>
+<polyline pts="307,-383,296,-372,"/>
+<polyline pts="327,-403,317,-393,"/>
+<polyline pts="331,-399,321,-388,"/>
+<polyline pts="311,-393,301,-403,"/>
+<polyline pts="331,-372,321,-383,"/>
+<polyline pts="327,-368,317,-378,"/>
+<ellipse left="343" top="-407" right="387" bottom="-364" op-fd="1" op-fc="16777215"/>
+<ellipse left="358" top="-393" right="372" bottom="-378"/>
+<polyline pts="362,-378,352,-368,"/>
+<polyline pts="362,-393,352,-403,"/>
+<polyline pts="358,-388,347,-399,"/>
+<polyline pts="358,-383,347,-372,"/>
+<polyline pts="378,-403,368,-393,"/>
+<polyline pts="383,-399,372,-388,"/>
+<polyline pts="362,-393,352,-403,"/>
+<polyline pts="383,-372,372,-383,"/>
+<polyline pts="378,-368,368,-378,"/>
+<ellipse left="394" top="-407" right="438" bottom="-364" op-fd="1" op-fc="16777215"/>
+<ellipse left="409" top="-393" right="423" bottom="-378"/>
+<polyline pts="413,-378,403,-368,"/>
+<polyline pts="413,-393,403,-403,"/>
+<polyline pts="409,-388,399,-399,"/>
+<polyline pts="409,-383,399,-372,"/>
+<polyline pts="429,-403,419,-393,"/>
+<polyline pts="434,-399,423,-388,"/>
+<polyline pts="413,-393,403,-403,"/>
+<polyline pts="434,-372,423,-383,"/>
+<polyline pts="429,-368,419,-378,"/>
+<ellipse left="445" top="-407" right="489" bottom="-364" op-fd="1" op-fc="16777215"/>
+<ellipse left="460" top="-393" right="475" bottom="-378"/>
+<polyline pts="464,-378,454,-368,"/>
+<polyline pts="464,-393,454,-403,"/>
+<polyline pts="460,-388,450,-399,"/>
+<polyline pts="460,-383,450,-372,"/>
+<polyline pts="480,-403,470,-393,"/>
+<polyline pts="485,-399,475,-388,"/>
+<polyline pts="464,-393,454,-403,"/>
+<polyline pts="485,-372,475,-383,"/>
+<polyline pts="480,-368,470,-378,"/>
+<text x="261" y="277" f="73,0,0,0,Calibri,000000">k2</text>
+<text x="314" y="277" f="73,0,0,0,Calibri,000000">I3</text>
+<text x="365" y="277" f="73,0,0,0,Calibri,000000">k3</text>
+<text x="416" y="278" f="73,0,0,0,Calibri,000000">I4</text>
+<text x="-366" y="-313" f="73,0,0,0,Calibri,000000">X1</text>
+<text x="-160" y="-316" f="50,0,0,0,Calibri,000000">COM1</text>
+<text x="-58" y="-317" f="50,0,0,0,Calibri,000000">DO1</text>
+<text x="108" y="-284" f="73,0,0,0,Calibri,000000">A1</text>
+<text x="159" y="-284" f="73,0,0,0,Calibri,000000">A2</text>
+<text x="416" y="-284" f="73,0,0,0,Calibri,000000">CIB+</text>
+<text x="-113" y="-254" f="73,0,0,0,Calibri,000000">D.OUTPUT</text>
+<outlet x="-60" y="-440"/>
+<outlet x="-110" y="-440"/>
+<outlet x="-160" y="-440"/>
+<outlet x="-215" y="-440"/>
+<outlet x="-265" y="-440"/>
+<outlet x="-315" y="-440"/>
+<outlet x="-365" y="-440"/>
+<outlet x="-416" y="-440"/>
+<outlet x="-468" y="-440"/>
+<outlet x="465" y="-440"/>
+<outlet x="415" y="-440"/>
+<outlet x="365" y="-440"/>
+<outlet x="310" y="-440"/>
+<outlet x="260" y="-440"/>
+<outlet x="210" y="-440"/>
+<outlet x="160" y="-440"/>
+<outlet x="109" y="-440"/>
+<outlet x="57" y="-440"/>
+<outlet x="-70" y="440"/>
+<outlet x="-120" y="440"/>
+<outlet x="-170" y="440"/>
+<outlet x="-225" y="440"/>
+<outlet x="-275" y="440"/>
+<outlet x="-325" y="440"/>
+<outlet x="-375" y="440"/>
+<outlet x="-426" y="440"/>
+<outlet x="-478" y="440"/>
+<outlet x="455" y="440"/>
+<outlet x="405" y="440"/>
+<outlet x="355" y="440"/>
+<outlet x="300" y="440"/>
+<outlet x="250" y="440"/>
+<outlet x="200" y="440"/>
+<outlet x="150" y="440"/>
+<outlet x="99" y="440"/>
+<outlet x="47" y="440"/>
+<rect left="-525" top="-231" right="525" bottom="223"/>
+<text x="-468" y="280" f="80,0,0,0,Calibri,000000">N</text>
+<text x="-366" y="280" f="80,0,0,0,Calibri,000000">L1</text>
+<text x="-58" y="280" f="80,0,0,0,Calibri,000000">L4</text>
+<text x="-264" y="279" f="80,0,0,0,Calibri,000000">L2</text>
+<text x="-160" y="279" f="80,0,0,0,Calibri,000000">L3</text>
+<text x="-304" y="-149" f="155,0,0,0,Lucida Sans Unicode,000000" l="1">C-EM-0401M</text>
+<ellipse left="312" top="-177" right="341" bottom="-148" op-fd="1" op-fc="65280"/>
+<text x="322" y="-125" f="80,1,0,0,Calibri,000000">DO0</text>
+<ellipse left="363" top="-177" right="392" bottom="-148" op-fd="1" op-fc="65280"/>
+<text x="383" y="-125" f="80,1,0,0,Calibri,000000">RUN</text>
 </layer>
 </layers>
 </document>
