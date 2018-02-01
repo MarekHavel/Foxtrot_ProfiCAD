@@ -1,11 +1,10 @@
-<document type="ProfiCAD ppd" version="6.0" t="" v="" n="" m="" fG="" lG="520eea18-5805-4ee8-9953-80c132e94c9e">
+<document type="ProfiCAD ppd" version="6.0" t="" v="" n="" m="" fG="" lG="c0814f89-b824-47c9-bcd2-e04041a8a5ca">
 <repo/>
 <layers current="0">
 <layer name="0" v="1">
-<text x="-316" y="-170" f="200,1,0,0,Calibri,000000">C-RM-1109M</text>
-<polyline op-lw="4" pts="-526,226,526,226,"/>
-<polyline op-lw="4" pts="-526,331,526,331,"/>
-<rect left="-520" top="-221" right="520" bottom="218"/>
+<text x="-374" y="-160" f="200,1,0,0,Calibri,000000">CP-1004</text>
+<rect left="7" top="-219" right="518" bottom="219"/>
+<rect left="-518" top="-219" right="-7" bottom="219"/>
 <rect left="-526" top="-438" right="526" bottom="438" op-lw="4"/>
 <roundRect left="-495" top="358" right="-32" bottom="412" rX="58" rY="58" op-fd="1" op-fc="12632256"/>
 <ellipse left="-489" top="364" right="-445" bottom="407" op-fd="1" op-fc="16777215"/>
@@ -407,166 +406,228 @@
 <polyline pts="464,-393,454,-403,"/>
 <polyline pts="485,-372,475,-383,"/>
 <polyline pts="480,-368,470,-378,"/>
-<polyline op-lw="4" pts="-526,-229,526,-229,"/>
-<polyline op-lw="4" pts="-526,-334,526,-334,"/>
-<polyline pts="-445,-329,-445,-258,"/>
-<polyline pts="-393,-329,-393,-239,"/>
-<polyline pts="-188,-329,-188,-258,"/>
-<polyline pts="-137,-329,-137,-258,"/>
-<polyline pts="-86,-329,-86,-258,"/>
-<polyline pts="-35,-329,-35,-239,"/>
-<text x="-471" y="-322" f="58,0,0,0,Calibri,000000">A1</text>
-<text x="-471" y="-282" t="2" f="58,0,0,0,Calibri,000000">CIB+</text>
-<polyline pts="-496,-307,-35,-307,"/>
-<text x="-420" y="-322" f="58,0,0,0,Calibri,000000">A2</text>
-<text x="-369" y="-322" f="58,0,0,0,Calibri,000000">A3</text>
-<text x="-318" y="-322" f="58,0,0,0,Calibri,000000">A4</text>
-<text x="-267" y="-322" f="58,0,0,0,Calibri,000000">A5</text>
-<text x="-214" y="-322" f="58,0,0,0,Calibri,000000">A6</text>
-<text x="-163" y="-322" f="58,0,0,0,Calibri,000000">A7</text>
-<text x="-112" y="-322" f="58,0,0,0,Calibri,000000">A8</text>
-<text x="-61" y="-322" f="58,0,0,0,Calibri,000000">A9</text>
-<text x="-420" y="-279" t="2" f="58,0,0,0,Calibri,000000">CIB-</text>
-<text x="-369" y="-275" t="2" f="58,0,0,0,Calibri,000000">GND</text>
-<text x="-163" y="-272" t="2" f="58,0,0,0,Calibri,000000">AI3</text>
-<text x="-112" y="-272" t="2" f="58,0,0,0,Calibri,000000">GND</text>
-<text x="-61" y="-270" t="2" f="58,0,0,0,Calibri,000000">AO1</text>
-<text x="-445" y="-246" f="58,0,0,0,Calibri,000000">CI BUS</text>
-<text x="-168" y="-246" f="58,0,0,0,Calibri,000000">ANALOG INPUTS/OUTPUT</text>
-<text x="-214" y="-275" t="2" f="58,0,0,0,Calibri,000000">AI2</text>
-<polyline pts="-496,-329,-496,-239,"/>
-<polyline pts="85,-329,85,-258,"/>
-<polyline pts="136,-329,136,-258,"/>
-<polyline pts="238,-329,238,-258,"/>
-<polyline pts="342,-329,342,-258,"/>
-<polyline pts="393,-329,393,-258,"/>
-<polyline pts="444,-329,444,-258,"/>
-<polyline pts="495,-329,495,-239,"/>
-<text x="59" y="-322" f="58,0,0,0,Calibri,000000">B1</text>
-<text x="59" y="-282" t="2" f="58,0,0,0,Calibri,000000">GND</text>
-<polyline pts="34,-307,495,-307,"/>
-<text x="110" y="-322" f="58,0,0,0,Calibri,000000">B2</text>
-<text x="161" y="-322" f="58,0,0,0,Calibri,000000">B3</text>
-<text x="212" y="-322" f="58,0,0,0,Calibri,000000">B4</text>
-<text x="263" y="-322" f="58,0,0,0,Calibri,000000">B5</text>
-<text x="316" y="-322" f="58,0,0,0,Calibri,000000">B6</text>
-<text x="367" y="-322" f="58,0,0,0,Calibri,000000">B7</text>
-<text x="418" y="-322" f="58,0,0,0,Calibri,000000">B8</text>
-<text x="469" y="-322" f="58,0,0,0,Calibri,000000">B9</text>
-<text x="110" y="-279" t="2" f="58,0,0,0,Calibri,000000">DI1</text>
-<text x="161" y="-279" t="2" f="58,0,0,0,Calibri,000000">DI2</text>
-<text x="367" y="-278" t="2" f="58,0,0,0,Calibri,000000">DI6</text>
-<text x="418" y="-277" t="2" f="58,0,0,0,Calibri,000000">DI7</text>
-<text x="469" y="-275" t="2" f="58,0,0,0,Calibri,000000">DI8</text>
-<text x="265" y="-246" f="58,0,0,0,Calibri,000000">DIGITAL INPUTS</text>
-<text x="315" y="-277" t="2" f="58,0,0,0,Calibri,000000">DI5</text>
-<polyline pts="34,-329,34,-239,"/>
-<text x="57" y="319" f="58,0,0,0,Calibri,000000">D1</text>
-<polyline pts="29,239,29,329,"/>
-<polyline pts="29,307,491,307,"/>
-<text x="108" y="319" f="58,0,0,0,Calibri,000000">D2</text>
-<text x="159" y="319" f="58,0,0,0,Calibri,000000">D3</text>
-<text x="211" y="319" f="58,0,0,0,Calibri,000000">D4</text>
-<text x="260" y="319" f="58,0,0,0,Calibri,000000">D5</text>
-<text x="311" y="319" f="58,0,0,0,Calibri,000000">D6</text>
-<text x="362" y="319" f="58,0,0,0,Calibri,000000">D7</text>
-<text x="413" y="319" f="58,0,0,0,Calibri,000000">D8</text>
-<text x="464" y="319" f="58,0,0,0,Calibri,000000">D9</text>
-<text x="-468" y="319" f="58,0,0,0,Calibri,000000">C1</text>
-<polyline pts="-390,258,-390,329,"/>
-<polyline pts="-86,265,-86,329,"/>
-<polyline pts="-35,239,-35,329,"/>
-<polyline pts="-499,307,-37,307,"/>
-<text x="-417" y="319" f="58,0,0,0,Calibri,000000">C2</text>
-<text x="-366" y="319" f="58,0,0,0,Calibri,000000">C3</text>
-<text x="-314" y="319" f="58,0,0,0,Calibri,000000">C4</text>
-<text x="-265" y="319" f="58,0,0,0,Calibri,000000">C5</text>
-<text x="-214" y="319" f="58,0,0,0,Calibri,000000">C6</text>
-<text x="-163" y="319" f="58,0,0,0,Calibri,000000">C7</text>
-<text x="-112" y="319" f="58,0,0,0,Calibri,000000">C8</text>
-<text x="-61" y="319" f="58,0,0,0,Calibri,000000">C9</text>
-<text x="-63" y="288" t="2" f="58,0,0,0,Calibri,000000">DO4</text>
-<text x="-113" y="279" t="2" f="58,0,0,0,Calibri,000000">COM4</text>
-<text x="-268" y="286" t="2" f="58,0,0,0,Calibri,000000">N.C.</text>
-<polyline pts="-98,301,-98,256,"/>
-<polyline pts="-98,256,-48,256,"/>
-<polyline pts="-48,256,-48,271,"/>
-<polyline pts="-48,271,-41,285,"/>
-<polyline pts="-48,287,-48,301,"/>
-<text x="-266" y="243" f="58,0,0,0,Calibri,000000">DIGITAL OUTPUTS</text>
-<polyline pts="-344,-329,-344,-258,"/>
-<text x="-319" y="-275" t="2" f="58,0,0,0,Calibri,000000">GND</text>
-<polyline pts="-291,-329,-291,-239,"/>
-<text x="-342" y="-246" f="50,0,0,0,Calibri,000000">POWER 24V=</text>
-<polyline pts="-239,-329,-239,-258,"/>
-<text x="-264" y="-275" t="2" f="58,0,0,0,Calibri,000000">AI1</text>
-<text x="211" y="-279" t="2" f="58,0,0,0,Calibri,000000">DI3</text>
-<text x="261" y="-278" t="2" f="58,0,0,0,Calibri,000000">DI4</text>
-<polyline pts="187,-329,187,-258,"/>
-<polyline pts="290,-329,290,-258,"/>
-<polyline pts="-188,265,-188,329,"/>
-<text x="-165" y="288" t="2" f="58,0,0,0,Calibri,000000">DO3</text>
-<text x="-215" y="279" t="2" f="58,0,0,0,Calibri,000000">COM3</text>
-<polyline pts="-200,301,-200,256,"/>
-<polyline pts="-200,256,-150,256,"/>
-<polyline pts="-150,256,-150,271,"/>
-<polyline pts="-150,271,-143,285,"/>
-<polyline pts="-240,258,-240,329,"/>
-<polyline pts="-496,239,-496,329,"/>
-<polyline pts="-340,265,-340,329,"/>
-<text x="-317" y="288" t="2" f="58,0,0,0,Calibri,000000">DO2</text>
-<text x="-367" y="279" t="2" f="58,0,0,0,Calibri,000000">COM2</text>
-<polyline pts="-352,301,-352,256,"/>
-<polyline pts="-352,256,-302,256,"/>
-<polyline pts="-302,256,-302,271,"/>
-<polyline pts="-302,271,-295,285,"/>
-<polyline pts="-302,287,-302,301,"/>
-<polyline pts="-440,265,-440,329,"/>
-<text x="-417" y="288" t="2" f="58,0,0,0,Calibri,000000">DO1</text>
-<text x="-467" y="279" t="2" f="58,0,0,0,Calibri,000000">COM1</text>
-<polyline pts="-452,301,-452,256,"/>
-<polyline pts="-452,256,-402,256,"/>
-<polyline pts="-402,256,-402,271,"/>
-<polyline pts="-402,271,-395,285,"/>
-<polyline pts="-290,258,-290,329,"/>
-<polyline pts="-138,258,-138,329,"/>
-<polyline pts="183,265,183,329,"/>
-<text x="206" y="288" t="2" f="58,0,0,0,Calibri,000000">DO6</text>
-<text x="156" y="279" t="2" f="58,0,0,0,Calibri,000000">COM6</text>
-<polyline pts="171,301,171,256,"/>
-<polyline pts="171,256,221,256,"/>
-<polyline pts="221,256,221,271,"/>
-<polyline pts="221,271,228,285,"/>
-<polyline pts="221,287,221,301,"/>
-<polyline pts="80,265,80,329,"/>
-<text x="103" y="288" t="2" f="58,0,0,0,Calibri,000000">DO5</text>
-<text x="53" y="279" t="2" f="58,0,0,0,Calibri,000000">COM5</text>
-<polyline pts="68,301,68,256,"/>
-<polyline pts="68,256,118,256,"/>
-<polyline pts="118,256,118,271,"/>
-<polyline pts="118,271,125,285,"/>
-<polyline pts="130,258,130,329,"/>
-<polyline pts="233,258,233,329,"/>
-<polyline pts="440,265,440,329,"/>
-<polyline pts="491,239,491,329,"/>
-<text x="463" y="288" t="2" f="58,0,0,0,Calibri,000000">DO8</text>
-<text x="413" y="279" t="2" f="58,0,0,0,Calibri,000000">COM8</text>
-<polyline pts="428,301,428,256,"/>
-<polyline pts="428,256,478,256,"/>
-<polyline pts="478,256,478,271,"/>
-<polyline pts="478,271,485,285,"/>
-<polyline pts="478,287,478,301,"/>
-<polyline pts="340,265,340,329,"/>
-<text x="363" y="288" t="2" f="58,0,0,0,Calibri,000000">DO7</text>
-<text x="313" y="279" t="2" f="58,0,0,0,Calibri,000000">COM7</text>
-<polyline pts="328,301,328,256,"/>
-<polyline pts="328,256,378,256,"/>
-<polyline pts="378,256,378,271,"/>
-<polyline pts="378,271,385,285,"/>
-<polyline pts="390,258,390,329,"/>
-<polyline pts="285,258,285,329,"/>
-<text x="257" y="286" t="2" f="58,0,0,0,Calibri,000000">N.C.</text>
-<text x="263" y="243" f="58,0,0,0,Calibri,000000">DIGITAL OUTPUTS</text>
+<ellipse left="-387" top="117" right="-358" bottom="146" op-fd="1" op-fc="65280"/>
+<rect left="-445" top="-73" right="-299" bottom="73" op-fd="1" op-fc="12632256"/>
+<rect left="-429" top="37" right="-415" bottom="51" op-fd="1" op-fc="8454143"/>
+<rect left="-329" top="37" right="-314" bottom="51" op-fd="1" op-fc="8454143"/>
+<rect left="-175" top="-69" right="-88" bottom="41" op-fd="1" op-fc="12632256"/>
+<ellipse left="-153" top="110" right="-110" bottom="153" op-fd="1" op-fc="0"/>
+<rect left="-143" top="-61" right="-110" bottom="-55" op-lc="65280" op-fd="1" op-fc="65280"/>
+<polygon op-lc="65280" op-fd="1" op-fc="65280" pts="-149,-53,-143,-53,-146,-20,-152,-20,"/>
+<polygon op-lc="65280" op-fd="1" op-fc="65280" pts="-111,-53,-105,-53,-108,-20,-114,-20,"/>
+<rect left="-146" top="-18" right="-112" bottom="-12" op-lc="65280" op-fd="1" op-fc="65280"/>
+<polygon op-lc="65280" op-fd="1" op-fc="65280" pts="-153,-9,-147,-9,-150,23,-156,23,"/>
+<polygon op-lc="65280" op-fd="1" op-fc="65280" pts="-115,-9,-110,-9,-112,23,-118,23,"/>
+<rect left="-150" top="26" right="-117" bottom="32" op-lc="65280" op-fd="1" op-fc="65280"/>
+<rect left="-104" top="26" right="-99" bottom="32" op-lc="65280" op-fd="1" op-fc="65280"/>
+<text x="-131" y="98" f="58,1,0,0,Calibri,000000">MODE</text>
+<polygon op-fd="1" op-fc="8454143" pts="-393,-61,-352,-61,-352,-53,-343,-53,-343,-38,-314,-38,-314,-15,-311,-15,-311,6,-314,6,-314,29,-431,29,-431,6,-434,6,-434,-15,-431,-15,-431,-38,-402,-38,-402,-53,-393,-53,"/>
+<rect left="-412" top="-9" right="-415" bottom="29" op-fd="1" op-fc="0"/>
+<rect left="-402" top="-9" right="-404" bottom="29" op-fd="1" op-fc="0"/>
+<rect left="-391" top="-9" right="-394" bottom="29" op-fd="1" op-fc="0"/>
+<rect left="-340" top="-9" right="-343" bottom="29" op-fd="1" op-fc="0"/>
+<rect left="-381" top="-9" right="-384" bottom="29" op-fd="1" op-fc="0"/>
+<rect left="-371" top="-9" right="-374" bottom="29" op-fd="1" op-fc="0"/>
+<rect left="-361" top="-9" right="-364" bottom="29" op-fd="1" op-fc="0"/>
+<rect left="-350" top="-9" right="-353" bottom="29" op-fd="1" op-fc="0"/>
+<rect left="-330" top="-9" right="-333" bottom="29" op-fd="1" op-fc="0"/>
+<text x="-372" y="98" f="58,1,0,0,Calibri,000000">ETHERNET</text>
+<ellipse left="-197" top="-146" right="-168" bottom="-117" op-fd="1" op-fc="65280"/>
+<ellipse left="-102" top="-146" right="-73" bottom="-117" op-fd="1" op-fc="255"/>
+<text x="-182" y="-99" f="58,1,0,0,Calibri,000000">RUN</text>
+<text x="-88" y="-99" f="58,1,0,0,Calibri,000000">ERROR</text>
+<polyline pts="80,-331,80,-260,"/>
+<polyline pts="132,-331,132,-260,"/>
+<polyline pts="183,-331,183,-260,"/>
+<polyline pts="286,-331,286,-241,"/>
+<polyline pts="337,-331,337,-260,"/>
+<polyline pts="388,-331,388,-260,"/>
+<polyline pts="440,-331,440,-260,"/>
+<polyline pts="491,-331,491,-241,"/>
+<text x="54" y="-324" f="58,0,0,0,Calibri,000000">B1</text>
+<polyline pts="29,-331,29,-241,"/>
+<polyline pts="29,-309,491,-309,"/>
+<text x="105" y="-324" f="58,0,0,0,Calibri,000000">B2</text>
+<text x="157" y="-324" f="58,0,0,0,Calibri,000000">B3</text>
+<text x="208" y="-324" f="58,0,0,0,Calibri,000000">B4</text>
+<text x="260" y="-324" f="58,0,0,0,Calibri,000000">B5</text>
+<text x="311" y="-324" f="58,0,0,0,Calibri,000000">B6</text>
+<text x="362" y="-324" f="58,0,0,0,Calibri,000000">B7</text>
+<text x="413" y="-324" f="58,0,0,0,Calibri,000000">B8</text>
+<text x="464" y="-324" f="58,0,0,0,Calibri,000000">B9</text>
+<text x="104" y="-281" t="2" f="58,0,0,0,Calibri,000000">DI0</text>
+<text x="165" y="-243" f="58,0,0,0,Calibri,000000">DIGITAL/SPECIAL INPUTS</text>
+<text x="397" y="-243" f="58,0,0,0,Calibri,000000">DIGITAL/ANALOG INPUTS</text>
+<polyline pts="-445,-330,-445,-259,"/>
+<polyline pts="-344,-330,-344,-259,"/>
+<polyline pts="-393,-330,-393,-240,"/>
+<polyline pts="-242,-330,-242,-259,"/>
+<polyline pts="-292,-330,-292,-240,"/>
+<polyline pts="-137,-330,-137,-259,"/>
+<polyline pts="-86,-330,-86,-259,"/>
+<polyline pts="-35,-330,-35,-240,"/>
+<text x="-471" y="-323" f="58,0,0,0,Calibri,000000">A1</text>
+<text x="-471" y="-283" t="2" f="58,0,0,0,Calibri,000000">TCL2+</text>
+<polyline pts="-496,-308,-35,-308,"/>
+<text x="-420" y="-323" f="58,0,0,0,Calibri,000000">A2</text>
+<text x="-369" y="-323" f="58,0,0,0,Calibri,000000">A3</text>
+<text x="-318" y="-323" f="58,0,0,0,Calibri,000000">A4</text>
+<text x="-267" y="-323" f="58,0,0,0,Calibri,000000">A5</text>
+<text x="-214" y="-323" f="58,0,0,0,Calibri,000000">A6</text>
+<text x="-163" y="-323" f="58,0,0,0,Calibri,000000">A7</text>
+<text x="-112" y="-323" f="58,0,0,0,Calibri,000000">A8</text>
+<text x="-61" y="-323" f="58,0,0,0,Calibri,000000">A9</text>
+<text x="-420" y="-280" t="2" f="58,0,0,0,Calibri,000000">TCL2-</text>
+<text x="-369" y="-276" t="2" f="58,0,0,0,Calibri,000000">GND</text>
+<text x="-163" y="-273" t="2" f="58,0,0,0,Calibri,000000">RxD</text>
+<text x="-112" y="-273" t="2" f="58,0,0,0,Calibri,000000">TxD</text>
+<text x="-61" y="-271" t="2" f="58,0,0,0,Calibri,000000">RTS</text>
+<text x="-445" y="-244" f="58,0,0,0,Calibri,000000">TC LINE</text>
+<text x="-113" y="-244" f="58,0,0,0,Calibri,000000">CH1/RS-232</text>
+<text x="54" y="-280" t="2" f="58,0,0,0,Calibri,000000">GND</text>
+<polyline op-lw="4" pts="-3,-438,-3,-226,"/>
+<polyline pts="-496,-330,-496,-240,"/>
+<polyline pts="80,259,80,330,"/>
+<polyline pts="132,259,132,330,"/>
+<polyline pts="183,259,183,330,"/>
+<polyline pts="234,259,234,330,"/>
+<polyline pts="491,240,491,330,"/>
+<polyline pts="29,240,29,330,"/>
+<polyline pts="29,308,491,308,"/>
+<text x="54" y="280" t="2" f="58,0,0,0,Calibri,000000">COM1</text>
+<text x="264" y="244" f="58,0,0,0,Calibri,000000">DIGITAL OTUPUTS</text>
+<text x="-470" y="320" f="58,0,0,0,Calibri,000000">C1</text>
+<polyline pts="-445,259,-445,330,"/>
+<polyline pts="-394,259,-394,330,"/>
+<polyline pts="-343,259,-343,330,"/>
+<polyline pts="-292,259,-292,330,"/>
+<polyline pts="-239,259,-239,330,"/>
+<polyline pts="-188,259,-188,330,"/>
+<polyline pts="-137,259,-137,330,"/>
+<polyline pts="-86,259,-86,330,"/>
+<polyline pts="-35,240,-35,330,"/>
+<text x="-483" y="287" t="2" f="58,0,0,0,Calibri,000000">+5 V</text>
+<polyline pts="-496,240,-496,330,"/>
+<polyline pts="-496,308,-35,308,"/>
+<text x="-461" y="287" t="2" f="58,0,0,0,Calibri,000000">+5 V</text>
+<text x="-419" y="320" f="58,0,0,0,Calibri,000000">C2</text>
+<text x="-367" y="320" f="58,0,0,0,Calibri,000000">C3</text>
+<text x="-318" y="320" f="58,0,0,0,Calibri,000000">C4</text>
+<text x="-265" y="320" f="58,0,0,0,Calibri,000000">C5</text>
+<text x="-213" y="320" f="58,0,0,0,Calibri,000000">C6</text>
+<text x="-162" y="320" f="58,0,0,0,Calibri,000000">C7</text>
+<text x="-112" y="320" f="58,0,0,0,Calibri,000000">C8</text>
+<text x="-61" y="320" f="58,0,0,0,Calibri,000000">C9</text>
+<text x="-410" y="282" t="2" f="58,0,0,0,Calibri,000000">GNDS</text>
+<text x="-359" y="293" t="2" f="58,0,0,0,Calibri,000000">BT-</text>
+<text x="-308" y="291" t="2" f="58,0,0,0,Calibri,000000">BT+</text>
+<text x="-255" y="283" t="2" f="58,0,0,0,Calibri,000000">TxRx-</text>
+<text x="-432" y="282" t="2" f="58,0,0,0,Calibri,000000">GNDS</text>
+<text x="-381" y="292" t="2" f="58,0,0,0,Calibri,000000">RTS</text>
+<text x="-331" y="298" t="2" f="58,0,0,0,Calibri,000000">-</text>
+<text x="-278" y="290" t="2" f="58,0,0,0,Calibri,000000">CTS</text>
+<text x="-227" y="299" t="2" f="58,0,0,0,Calibri,000000">-</text>
+<text x="-175" y="291" t="2" f="58,0,0,0,Calibri,000000">RxD</text>
+<text x="-124" y="290" t="2" f="58,0,0,0,Calibri,000000">TxD</text>
+<text x="-74" y="299" t="2" f="58,0,0,0,Calibri,000000">-</text>
+<text x="-204" y="282" t="2" f="58,0,0,0,Calibri,000000">TxRx+</text>
+<text x="-154" y="299" t="2" f="58,0,0,0,Calibri,000000">-</text>
+<text x="-102" y="283" t="2" f="58,0,0,0,Calibri,000000">TxRx-</text>
+<text x="-51" y="282" t="2" f="58,0,0,0,Calibri,000000">TxRx+</text>
+<text x="-243" y="244" f="58,0,0,0,Calibri,000000">CH2 OPTIONAL SUBMODULE (e.g. RS-232, RS-485)</text>
+<text x="106" y="287" t="2" f="58,0,0,0,Calibri,000000">DO0</text>
+<text x="157" y="287" t="2" f="58,0,0,0,Calibri,000000">DO1</text>
+<text x="208" y="287" t="2" f="58,0,0,0,Calibri,000000">DO2</text>
+<polyline op-lw="4" pts="-3,438,-3,226,"/>
+<polyline op-lw="4" pts="-527,-341,525,-341,"/>
+<polyline op-lw="4" pts="-526,-227,526,-227,"/>
+<polyline op-lw="4" pts="-526,226,526,226,"/>
+<polyline op-lw="4" pts="-526,338,526,338,"/>
+<ellipse left="68" top="-201" right="97" bottom="-172" op-fd="1" op-fc="65280"/>
+<ellipse left="118" top="-201" right="147" bottom="-172" op-fd="1" op-fc="65280"/>
+<ellipse left="168" top="-201" right="197" bottom="-172" op-fd="1" op-fc="65280"/>
+<ellipse left="218" top="-201" right="247" bottom="-172" op-fd="1" op-fc="65280"/>
+<ellipse left="268" top="-201" right="297" bottom="-172" op-fd="1" op-fc="65280"/>
+<ellipse left="318" top="-201" right="347" bottom="-172" op-fd="1" op-fc="65280"/>
+<ellipse left="368" top="-201" right="397" bottom="-172" op-fd="1" op-fc="65280"/>
+<ellipse left="418" top="-201" right="447" bottom="-172" op-fd="1" op-fc="65280"/>
+<text x="-318" y="-273" t="2" f="58,0,0,0,Calibri,000000">+24 V</text>
+<text x="-340" y="-244" f="58,0,0,0,Calibri,000000">24 V DC</text>
+<text x="-268" y="-275" t="2" f="58,0,0,0,Calibri,000000">CIB+</text>
+<text x="-218" y="-275" t="2" f="58,0,0,0,Calibri,000000">CIB-</text>
+<text x="-239" y="-244" f="58,0,0,0,Calibri,000000">CIB LINE</text>
+<polyline pts="-192,-330,-192,-240,"/>
+<text x="158" y="-281" t="2" f="58,0,0,0,Calibri,000000">DI1</text>
+<text x="209" y="-281" t="2" f="58,0,0,0,Calibri,000000">DI2</text>
+<polyline pts="233,-331,233,-260,"/>
+<text x="259" y="-281" t="2" f="58,0,0,0,Calibri,000000">DI3</text>
+<text x="299" y="-283" t="2" f="58,0,0,0,Calibri,000000">AI0</text>
+<text x="350" y="-283" t="2" f="58,0,0,0,Calibri,000000">AI1</text>
+<text x="401" y="-282" t="2" f="58,0,0,0,Calibri,000000">AI2</text>
+<text x="452" y="-283" t="2" f="58,0,0,0,Calibri,000000">AI3</text>
+<text x="321" y="-283" t="2" f="58,0,0,0,Calibri,000000">DI4</text>
+<text x="372" y="-283" t="2" f="58,0,0,0,Calibri,000000">DI5</text>
+<text x="423" y="-283" t="2" f="58,0,0,0,Calibri,000000">DI6</text>
+<text x="475" y="-283" t="2" f="58,0,0,0,Calibri,000000">DI7</text>
+<polyline pts="335,259,335,330,"/>
+<polyline pts="387,259,387,330,"/>
+<polyline pts="438,259,438,330,"/>
+<polyline pts="284,259,284,330,"/>
+<text x="309" y="280" t="2" f="58,0,0,0,Calibri,000000">COM2</text>
+<text x="361" y="287" t="2" f="58,0,0,0,Calibri,000000">DO3</text>
+<text x="412" y="287" t="2" f="58,0,0,0,Calibri,000000">DO4</text>
+<text x="463" y="287" t="2" f="58,0,0,0,Calibri,000000">DO5</text>
+<text x="55" y="320" f="58,0,0,0,Calibri,000000">D1</text>
+<text x="106" y="320" f="58,0,0,0,Calibri,000000">D2</text>
+<text x="158" y="320" f="58,0,0,0,Calibri,000000">D3</text>
+<text x="207" y="320" f="58,0,0,0,Calibri,000000">D4</text>
+<text x="260" y="320" f="58,0,0,0,Calibri,000000">D5</text>
+<text x="312" y="320" f="58,0,0,0,Calibri,000000">D6</text>
+<text x="363" y="320" f="58,0,0,0,Calibri,000000">D7</text>
+<text x="413" y="320" f="58,0,0,0,Calibri,000000">D8</text>
+<text x="464" y="320" f="58,0,0,0,Calibri,000000">D9</text>
+<ellipse left="93" top="174" right="122" bottom="203" op-fd="1" op-fc="65280"/>
+<ellipse left="143" top="174" right="172" bottom="203" op-fd="1" op-fc="65280"/>
+<ellipse left="198" top="174" right="227" bottom="203" op-fd="1" op-fc="65280"/>
+<ellipse left="453" top="174" right="482" bottom="203" op-fd="1" op-fc="65280"/>
+<ellipse left="398" top="174" right="427" bottom="203" op-fd="1" op-fc="65280"/>
+<ellipse left="343" top="174" right="372" bottom="203" op-fd="1" op-fc="65280"/>
+<outlet x="60" y="-438"/>
+<outlet x="111" y="-438"/>
+<outlet x="162" y="-438"/>
+<outlet x="213" y="-438"/>
+<outlet x="264" y="-438"/>
+<outlet x="315" y="-438"/>
+<outlet x="367" y="-438"/>
+<outlet x="418" y="-438"/>
+<outlet x="469" y="-438"/>
+<outlet x="60" y="-438"/>
+<outlet x="111" y="-438"/>
+<outlet x="162" y="-438"/>
+<outlet x="213" y="-438"/>
+<outlet x="264" y="-438"/>
+<outlet x="315" y="-438"/>
+<outlet x="367" y="-438"/>
+<outlet x="418" y="-438"/>
+<outlet x="469" y="-438"/>
+<outlet x="-465" y="-438"/>
+<outlet x="-414" y="-438"/>
+<outlet x="-363" y="-438"/>
+<outlet x="-312" y="-438"/>
+<outlet x="-261" y="-438"/>
+<outlet x="-210" y="-438"/>
+<outlet x="-158" y="-438"/>
+<outlet x="-107" y="-438"/>
+<outlet x="-56" y="-438"/>
+<outlet x="-465" y="-438"/>
+<outlet x="-414" y="-438"/>
+<outlet x="-363" y="-438"/>
+<outlet x="-312" y="-438"/>
+<outlet x="-261" y="-438"/>
+<outlet x="-210" y="-438"/>
+<outlet x="-158" y="-438"/>
+<outlet x="-107" y="-438"/>
+<outlet x="-56" y="-438"/>
 <outlet x="-465" y="437"/>
 <outlet x="-414" y="437"/>
 <outlet x="-363" y="437"/>
@@ -603,79 +664,6 @@
 <outlet x="367" y="437"/>
 <outlet x="418" y="437"/>
 <outlet x="469" y="437"/>
-<outlet x="-465" y="-438"/>
-<outlet x="-414" y="-438"/>
-<outlet x="-363" y="-438"/>
-<outlet x="-312" y="-438"/>
-<outlet x="-261" y="-438"/>
-<outlet x="-210" y="-438"/>
-<outlet x="-158" y="-438"/>
-<outlet x="-107" y="-438"/>
-<outlet x="-56" y="-438"/>
-<outlet x="-465" y="-438"/>
-<outlet x="-414" y="-438"/>
-<outlet x="-363" y="-438"/>
-<outlet x="-312" y="-438"/>
-<outlet x="-261" y="-438"/>
-<outlet x="-210" y="-438"/>
-<outlet x="-158" y="-438"/>
-<outlet x="-107" y="-438"/>
-<outlet x="-56" y="-438"/>
-<outlet x="60" y="-438"/>
-<outlet x="111" y="-438"/>
-<outlet x="162" y="-438"/>
-<outlet x="213" y="-438"/>
-<outlet x="264" y="-438"/>
-<outlet x="315" y="-438"/>
-<outlet x="367" y="-438"/>
-<outlet x="418" y="-438"/>
-<outlet x="469" y="-438"/>
-<outlet x="60" y="-438"/>
-<outlet x="111" y="-438"/>
-<outlet x="162" y="-438"/>
-<outlet x="213" y="-438"/>
-<outlet x="264" y="-438"/>
-<outlet x="315" y="-438"/>
-<outlet x="367" y="-438"/>
-<outlet x="418" y="-438"/>
-<outlet x="469" y="-438"/>
-<ellipse left="102" top="-195" right="131" bottom="-165" op-fd="1" op-fc="65280"/>
-<ellipse left="152" top="-195" right="181" bottom="-165" op-fd="1" op-fc="65280"/>
-<ellipse left="202" top="-195" right="231" bottom="-165" op-fd="1" op-fc="65280"/>
-<ellipse left="252" top="-195" right="281" bottom="-165" op-fd="1" op-fc="65280"/>
-<ellipse left="304" top="-195" right="333" bottom="-165" op-fd="1" op-fc="65280"/>
-<ellipse left="354" top="-195" right="383" bottom="-165" op-fd="1" op-fc="65280"/>
-<ellipse left="402" top="-195" right="431" bottom="-165" op-fd="1" op-fc="65280"/>
-<ellipse left="452" top="-195" right="481" bottom="-165" op-fd="1" op-fc="65280"/>
-<ellipse left="-348" top="-90" right="-319" bottom="-60" op-fd="1" op-fc="65280"/>
-<ellipse left="-453" top="170" right="-424" bottom="200" op-fd="1" op-fc="65280"/>
-<ellipse left="-353" top="170" right="-324" bottom="200" op-fd="1" op-fc="65280"/>
-<ellipse left="-203" top="170" right="-174" bottom="200" op-fd="1" op-fc="65280"/>
-<ellipse left="-103" top="170" right="-74" bottom="200" op-fd="1" op-fc="65280"/>
-<ellipse left="67" top="170" right="96" bottom="200" op-fd="1" op-fc="65280"/>
-<ellipse left="167" top="170" right="196" bottom="200" op-fd="1" op-fc="65280"/>
-<ellipse left="327" top="170" right="356" bottom="200" op-fd="1" op-fc="65280"/>
-<ellipse left="427" top="170" right="456" bottom="200" op-fd="1" op-fc="65280"/>
-<ellipse left="177" top="-15" right="206" bottom="15" op-fd="1" op-fc="65535"/>
-<text x="117" y="-144" f="60,0,0,0,Calibri,000000">DI1</text>
-<text x="167" y="-144" f="60,0,0,0,Calibri,000000">DI2</text>
-<text x="217" y="-144" f="60,0,0,0,Calibri,000000">DI3</text>
-<text x="267" y="-144" f="60,0,0,0,Calibri,000000">DI4</text>
-<text x="319" y="-144" f="60,0,0,0,Calibri,000000">DI5</text>
-<text x="372" y="-144" f="60,0,0,0,Calibri,000000">DI6</text>
-<text x="417" y="-144" f="60,0,0,0,Calibri,000000">DI7</text>
-<text x="467" y="-144" f="60,0,0,0,Calibri,000000">DI8</text>
-<text x="-333" y="-39" f="60,0,0,0,Calibri,000000">RUN</text>
-<text x="-438" y="146" f="60,0,0,0,Calibri,000000">DO1</text>
-<text x="-338" y="146" f="60,0,0,0,Calibri,000000">DO2</text>
-<text x="-188" y="146" f="60,0,0,0,Calibri,000000">DO3</text>
-<text x="-88" y="146" f="60,0,0,0,Calibri,000000">DO4</text>
-<text x="82" y="151" f="60,0,0,0,Calibri,000000">DO5</text>
-<text x="182" y="151" f="60,0,0,0,Calibri,000000">DO6</text>
-<text x="342" y="151" f="60,0,0,0,Calibri,000000">DO7</text>
-<text x="442" y="151" f="60,0,0,0,Calibri,000000">DO8</text>
-<text x="77" y="1" f="60,0,0,0,Calibri,000000">MANUAL CONTROL</text>
-<text x="247" y="1" f="60,0,0,0,Calibri,000000">ON</text>
 </layer>
 </layers>
 </document>
