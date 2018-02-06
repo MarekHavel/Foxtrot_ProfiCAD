@@ -1,0 +1,112 @@
+<document type="ProfiCAD ppd" version="6.0" t="" v="" n="" m="" fG="" lG="ce56b773-71bc-4b05-96ee-03d26b1de34d">
+<repo/>
+<layers current="0">
+<layer name="0" v="1">
+<rect left="-88" top="-438" right="88" bottom="438" op-lw="4"/>
+<roundRect left="-79" top="-413" right="77" bottom="-359" rX="58" rY="58" op-fd="1" op-fc="12632256"/>
+<ellipse left="-22" top="-407" right="22" bottom="-364" op-fd="1" op-fc="16777215"/>
+<ellipse left="-7" top="-393" right="7" bottom="-378"/>
+<polyline pts="-3,-378,-13,-368,"/>
+<polyline pts="-3,-393,-13,-403,"/>
+<polyline pts="-7,-388,-18,-399,"/>
+<polyline pts="-7,-383,-18,-372,"/>
+<polyline pts="13,-403,3,-393,"/>
+<polyline pts="18,-399,7,-388,"/>
+<polyline pts="-3,-393,-13,-403,"/>
+<polyline pts="18,-372,7,-383,"/>
+<polyline pts="13,-368,3,-378,"/>
+<polyline op-lw="4" pts="-88,-331,88,-331,"/>
+<text x="-56" y="-289" t="2" f="90,0,0,0,Calibri,000000">RxD</text>
+<ellipse left="29" top="-407" right="73" bottom="-364" op-fd="1" op-fc="16777215"/>
+<ellipse left="44" top="-393" right="58" bottom="-378"/>
+<polyline pts="48,-378,38,-368,"/>
+<polyline pts="48,-393,38,-403,"/>
+<polyline pts="44,-388,34,-399,"/>
+<polyline pts="44,-383,34,-372,"/>
+<polyline pts="64,-403,54,-393,"/>
+<polyline pts="69,-399,58,-388,"/>
+<polyline pts="48,-393,38,-403,"/>
+<polyline pts="69,-372,58,-383,"/>
+<polyline pts="64,-368,54,-378,"/>
+<ellipse left="-73" top="-407" right="-29" bottom="-364" op-fd="1" op-fc="16777215"/>
+<ellipse left="-58" top="-393" right="-44" bottom="-378"/>
+<polyline pts="-54,-378,-64,-368,"/>
+<polyline pts="-54,-393,-64,-403,"/>
+<polyline pts="-58,-388,-69,-399,"/>
+<polyline pts="-58,-383,-69,-372,"/>
+<polyline pts="-38,-403,-48,-393,"/>
+<polyline pts="-34,-399,-44,-388,"/>
+<polyline pts="-54,-393,-64,-403,"/>
+<polyline pts="-34,-372,-44,-383,"/>
+<polyline pts="-38,-368,-48,-378,"/>
+<roundRect left="-79" top="358" right="77" bottom="412" rX="58" rY="58" op-fd="1" op-fc="12632256"/>
+<ellipse left="-22" top="364" right="22" bottom="407" op-fd="1" op-fc="16777215"/>
+<ellipse left="-7" top="378" right="7" bottom="393"/>
+<polyline pts="-3,393,-13,403,"/>
+<polyline pts="-3,378,-13,368,"/>
+<polyline pts="-7,383,-18,372,"/>
+<polyline pts="-7,388,-18,399,"/>
+<polyline pts="13,368,3,378,"/>
+<polyline pts="18,372,7,383,"/>
+<polyline pts="-3,378,-13,368,"/>
+<polyline pts="18,399,7,388,"/>
+<polyline pts="13,403,3,393,"/>
+<ellipse left="29" top="364" right="73" bottom="407" op-fd="1" op-fc="16777215"/>
+<ellipse left="44" top="378" right="58" bottom="393"/>
+<polyline pts="48,393,38,403,"/>
+<polyline pts="48,378,38,368,"/>
+<polyline pts="44,383,34,372,"/>
+<polyline pts="44,388,34,399,"/>
+<polyline pts="64,368,54,378,"/>
+<polyline pts="69,372,58,383,"/>
+<polyline pts="48,378,38,368,"/>
+<polyline pts="69,399,58,388,"/>
+<polyline pts="64,403,54,393,"/>
+<ellipse left="-73" top="364" right="-29" bottom="407" op-fd="1" op-fc="16777215"/>
+<ellipse left="-58" top="378" right="-44" bottom="393"/>
+<polyline pts="-54,393,-64,403,"/>
+<polyline pts="-54,378,-64,368,"/>
+<polyline pts="-58,383,-69,372,"/>
+<polyline pts="-58,388,-69,399,"/>
+<polyline pts="-38,368,-48,378,"/>
+<polyline pts="-34,372,-44,383,"/>
+<polyline pts="-54,378,-64,368,"/>
+<polyline pts="-34,399,-44,388,"/>
+<polyline pts="-38,403,-48,393,"/>
+<text x="-3" y="205" f="100,1,0,0,Calibri,000000">UC-1205</text>
+<text x="24" y="155" f="70,1,0,0,Calibri,000000">POWER</text>
+<polyline op-lw="4" pts="-88,-241,88,-241,"/>
+<polyline op-lw="4" pts="-88,331,88,331,"/>
+<polyline op-lw="4" pts="-88,226,86,226,"/>
+<ellipse left="-50" top="139" right="-21" bottom="168" op-fd="1" op-fc="65280"/>
+<polyline pts="-29,-330,-29,-260,"/>
+<text x="-3" y="-288" t="2" f="90,0,0,0,Calibri,000000">TxD</text>
+<text x="52" y="-292" t="2" f="90,0,0,0,Calibri,000000">GND</text>
+<polyline pts="30,-330,30,-260,"/>
+<text x="-57" y="299" t="2" f="90,0,0,0,Calibri,000000">+24V</text>
+<polyline pts="-34,260,-34,330,"/>
+<text x="-2" y="292" t="2" f="90,0,0,0,Calibri,000000">GND</text>
+<text x="53" y="292" t="2" f="90,0,0,0,Calibri,000000">GND</text>
+<polyline pts="31,260,31,330,"/>
+<text x="4" y="95" f="70,1,0,0,Calibri,000000">RELEASE</text>
+<ellipse left="-70" top="79" right="-41" bottom="108" op-fd="1" op-fc="65535"/>
+<rect left="-65" top="40" right="-50" bottom="-90" op-lw="10"/>
+<text x="-16" y="-20" f="70,1,0,0,Calibri,000000">SIM</text>
+<text x="0" y="244" f="58,0,0,0,Calibri,000000">24 V=</text>
+<text x="2" y="-255" f="58,0,0,0,Calibri,000000">RS-232</text>
+<ellipse left="-18" top="-189" right="58" bottom="-113"/>
+<ellipse left="-24" top="-195" right="64" bottom="-108"/>
+<ellipse left="13" top="-159" right="27" bottom="-144"/>
+<arc left="-38" top="-210" right="78" bottom="-93" bX="-50" bY="0" eX="40" eY="0"/>
+<polyline pts="-38,-151,-38,-239,"/>
+<polyline pts="78,-151,78,-239,"/>
+<text x="40" y="-65" f="73,1,0,0,Calibri,000000">ANT.</text>
+<outlet x="-53" y="-440"/>
+<outlet x="-1" y="-440"/>
+<outlet x="50" y="-440"/>
+<outlet x="-53" y="440"/>
+<outlet x="-1" y="440"/>
+<outlet x="50" y="440"/>
+</layer>
+</layers>
+</document>
